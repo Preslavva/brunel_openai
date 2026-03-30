@@ -1,0 +1,630 @@
+title,title_norm,standardized_job_title,job_title,hiring_company,period_start_date,period_end_date,unique_application_clicks,unique_visitors,duration_days
+KYC Analist,kyc analist,Bestrijdingsspecialist witwassen,KYC Analist,Brunel,2025-10-28,,38,23321,
+KYC Analist,kyc analist,Analist tegen Geldwitwassen,KYC Analist,Brunel,2025-09-25,2025-10-25,72,17130,30.0
+Financial Accountant,financial accountant,Financieel accountant,Financial Accountant,Brunel,2025-10-13,2025-10-14,37,7494,1.0
+Mechanical Engineer (Automotive),mechanical engineer (automotive),Werktuigbouwkundige,Mechanical Engineer (Automotive),Brunel,2025-08-04,2025-09-03,686,3552,30.0
+Financieel controller,financieel controller,Financieel controller,Financieel controller,Brunel,2025-09-22,2025-10-09,48,3672,17.0
+Legal Counsel,legal counsel,Juridisch adviseur,Legal Counsel,Brunel,2025-07-31,2025-08-28,72,3554,28.0
+Accountmanager,accountmanager,Accountmanager,Accountmanager,Brunel,2025-06-12,,196,2895,
+Data Scientist,data scientist,Datawetenschapper,Data Scientist,Brunel,2025-02-13,2025-03-15,300,2527,30.0
+Embedded Software Engineer (automotive),embedded software engineer (automotive),SET software-ingenieur,Embedded Software Engineer (automotive),Brunel,2025-04-11,2025-05-11,386,1710,30.0
+Java Developer (Spring Boot),java developer (spring boot),Java-ontwikkelaar,Java Developer (Spring Boot),Brunel,2025-02-13,2025-03-15,446,1583,30.0
+Business Analist,business analist,Bedrijfsanalist,Business Analist,Brunel,2025-07-08,2025-08-07,67,1903,30.0
+SEA & online marketing specialist,sea & online marketing specialist,Online marketing,SEA & online marketing specialist,Brunel,2025-05-06,2025-06-04,193,1510,29.0
+Mechanical Design Engineer,mechanical design engineer,Werktuigbouwkundig ingenieur,Mechanical Design Engineer,Brunel,2025-05-21,2025-06-04,153,1371,14.0
+Team Manager,team manager,Manager,Team Manager,Brunel,2025-06-26,2025-07-26,111,1464,30.0
+Financial Risk & Data Traineeship,financial risk & data traineeship,Financieel professional,Financial Risk & Data Traineeship,Brunel,2025-06-06,2025-07-06,126,1455,30.0
+Finance Talent Program,finance talent program,Financiën,Finance Talent Program,Brunel,2025-05-19,2025-06-18,92,1446,30.0
+Maintenance Engineer,maintenance engineer,Onderhoudsingenieur,Maintenance Engineer,Brunel,2025-02-04,2025-02-28,257,1099,24.0
+Programma Management Ondersteuner,programma management ondersteuner,Supporter,Programma Management Ondersteuner,Brunel,2025-09-22,2025-10-22,52,1261,30.0
+KYC/CDD Analist Amsterdam,kyc/cdd analist amsterdam,Analist tegen Geldwitwassen,KYC/CDD Analist Amsterdam,Brunel,2025-03-28,2025-05-19,76,1293,52.0
+Junior TM Analist,junior tm analist,Junior analist,Junior TM Analist,Brunel,2025-10-13,2025-11-12,88,1330,30.0
+Trainee Finance & Control,trainee finance & control,Financieel controller,Trainee Finance & Control,Brunel,2025-07-09,2025-08-08,82,1193,30.0
+Process/ Manufacturing Engineer,process/ manufacturing engineer,Fabricage-ingenieur,Process/ Manufacturing Engineer,Brunel,2025-03-28,2025-04-26,92,1165,29.0
+Junior Java Engineer,junior java engineer,Junior Java-ontwikkelaar,Junior Java Engineer,Brunel,2025-03-06,2025-04-05,272,1068,30.0
+Project Manager,project manager,Projectmanager,Project Manager,Brunel,2025-02-13,2025-03-15,143,1136,30.0
+Contractmanager,contractmanager,Contractmanager,Contractmanager,Brunel,2025-09-22,,79,1110,
+Mechanical Engineer,mechanical engineer,Werktuigbouwkundige,Mechanical Engineer,Brunel,2025-06-18,2025-06-27,224,796,9.0
+Structural Engineer – Design and Construction,structural engineer - design and construction,Bouwkundig ingenieur,Structural Engineer – Design and Construction,Brunel,2025-02-13,2025-04-07,184,890,53.0
+Junior Financial Controller,junior financial controller,Junior Financial Controller,Junior Financial Controller,Brunel,2025-02-13,2025-04-03,53,1107,49.0
+Procurement Manager,procurement manager,Inkoopmanager,Procurement Manager,Brunel,2025-06-11,2025-06-27,111,934,16.0
+Electrical Engineer,electrical engineer,Elektrisch ingenieur,Electrical Engineer,Brunel,2025-05-15,2025-06-14,145,884,30.0
+Site Quality Manager,site quality manager,Kwaliteitsmanager Locatie,Site Quality Manager,Brunel,2025-09-16,2025-10-16,82,954,30.0
+Bid Manager,bid manager,Financieel manager,Bid Manager,Brunel,2025-06-12,2025-09-01,86,980,81.0
+NOC engineer,noc engineer,Ingenieur netwerkbeheercentrum,NOC engineer,Brunel,2025-03-28,2025-05-19,86,1007,52.0
+Embedded Software Engineer,embedded software engineer,SET software-ingenieur,Embedded Software Engineer,Brunel,2025-02-13,2025-03-15,160,883,30.0
+Recruiter,recruiter,Recruiter,Recruiter,Brunel,2025-02-05,2025-02-28,53,984,23.0
+Senior KYC/CDD analist HBO amsterdam,senior kyc/cdd analist hbo amsterdam,Analist tegen Geldwitwassen,Senior KYC/CDD analist HBO amsterdam,Brunel,2025-03-28,2025-05-19,28,1119,52.0
+Junior TM Analist,junior tm analist,Transactiespecialist,Junior TM Analist,Brunel,2025-05-19,2025-06-18,65,954,30.0
+Field Manager,field manager,Field Manager,Field Manager,Brunel,2025-09-30,2025-10-17,50,929,17.0
+Marketing & Sales Support Specialist,marketing & sales support specialist,Verkoop- en marketingspecialist,Marketing & Sales Support Specialist,Brunel,2025-09-02,2025-09-08,133,787,6.0
+Junior Business Controller,junior business controller,Businesscontroller,Junior Business Controller,Brunel,2025-02-13,2025-04-07,47,999,53.0
+Credit Risk Analist (NL),credit risk analist (nl),Kredietrisicoanalist,Credit Risk Analist (NL),Brunel,2025-02-13,2025-04-07,43,965,53.0
+Agile Coach,agile coach,Agile-coach,Agile Coach,Brunel,2025-03-28,2025-05-19,28,985,52.0
+IT-Recruiter,it-recruiter,IT-recruiter,IT-Recruiter,Brunel,2025-09-30,,18,963,
+Senior KYC/CDD analist WO Amsterdam,senior kyc/cdd analist wo amsterdam,Analist tegen Geldwitwassen,Senior KYC/CDD analist WO Amsterdam,Brunel,2025-03-28,2025-05-19,33,949,52.0
+Offshore Process Operator,offshore process operator,Procesoperator,Offshore Process Operator,Brunel,2025-03-06,2025-04-05,100,786,30.0
+Project/Programmamanager,project/programmamanager,Programmamanager,Project/Programmamanager,Brunel,2025-08-15,2025-09-08,45,863,24.0
+Corporate Recruiter Amsterdam,corporate recruiter amsterdam,Corporate recruiter,Corporate Recruiter Amsterdam,Brunel,2024-12-03,2025-01-06,62,839,34.0
+Data-analist,data-analist,Data-analist,Data-analist,Brunel,2025-06-25,2025-07-25,106,773,30.0
+Data Engineer,data engineer,Gegevensingenieur,Data Engineer,Brunel,2025-02-13,2025-03-15,148,754,30.0
+Vision & Measurement Designer,vision & measurement designer,Ontwerper,Vision & Measurement Designer,Brunel,2025-10-23,2025-11-21,31,832,29.0
+Senior Project Engineer Offshore Energie,senior project engineer offshore energie,Senior projectingenieur,Senior Project Engineer Offshore Energie,Brunel,2025-10-09,2025-11-08,55,744,30.0
+Scrum Master,scrum master,Scrummaster,Scrum Master,Brunel,2025-02-13,2025-03-21,66,772,36.0
+Medior analist KYC Rotterdam,medior analist kyc rotterdam,Analist tegen Geldwitwassen,Medior analist KYC Rotterdam,Brunel,2025-09-22,2025-10-22,23,824,30.0
+Procesinnovator,procesinnovator,Processpecialist,Procesinnovator,Brunel,2025-07-18,2025-08-17,18,788,30.0
+Mechanical Enigineer,mechanical enigineer,Werktuigbouwkundige,Mechanical Enigineer,Brunel,2025-07-09,2025-08-08,48,740,30.0
+Financieel Administratief Medewerker,financieel administratief medewerker,Administratief medewerker,Financieel Administratief Medewerker,Brunel,2025-08-25,2025-11-17,31,759,84.0
+Rotating Engineer,rotating engineer,Ingenieur,Rotating Engineer,Brunel,2025-06-02,2025-07-02,39,701,30.0
+Process/Manufacturing Engineer,process/manufacturing engineer,Fabricage-ingenieur,Process/Manufacturing Engineer,Brunel,2025-04-11,2025-04-28,60,700,17.0
+Junior AML-Analist,junior aml-analist,Junior analist,Junior AML-Analist,Brunel,2025-02-28,2025-04-07,36,757,38.0
+Financieel Risk & Data Traineeship,financieel risk & data traineeship,Dataspecialist,Financieel Risk & Data Traineeship,Brunel,2025-02-13,2025-04-03,31,685,49.0
+Junior Project Controller - wo - Den Haag,junior project controller - wo - den haag,Junior controller,Junior Project Controller - wo - Den Haag,Brunel,2025-10-01,2025-10-31,19,732,30.0
+Structural Engineer,structural engineer,Bouwkundig ingenieur,Structural Engineer,Brunel,2025-02-13,2025-03-15,106,578,30.0
+Carrière in de energietransitie,carrière in de energietransitie,Energiespecialist,Carrière in de energietransitie,Brunel,2025-10-28,,48,645,
+Pipeline Engineer,pipeline engineer,Leidingingenieur,Pipeline Engineer,Brunel,2024-12-20,2025-01-19,106,550,30.0
+Senior Insights Manager,senior insights manager,Manager statistische gegevens,Senior Insights Manager,Brunel,2025-08-20,2025-08-21,61,539,1.0
+Project Engineer HVAC,project engineer hvac,Projectingenieur,Project Engineer HVAC,Brunel,2025-09-02,2025-10-02,55,594,30.0
+Project Engineer,project engineer,Projectingenieur,Project Engineer,Brunel,2025-04-11,2025-05-11,52,644,30.0
+Teammanager Engineering,teammanager engineering,Manager techniek,Teammanager Engineering,Brunel,2025-06-06,2025-07-06,22,634,30.0
+Firmware Engineer,firmware engineer,Firmware-ingenieur,Firmware Engineer,Brunel,2025-08-15,2025-09-14,40,608,30.0
+Senior EHS Specialist,senior ehs specialist,EHS-specialist,Senior EHS Specialist,Brunel,2025-09-22,2025-10-22,21,647,30.0
+Instrumentation & Control Engineer,instrumentation & control engineer,Ingenieur instrumentatiecontrolesystemen,Instrumentation & Control Engineer,Brunel,2025-11-19,,93,481,
+Junior Power Platform Developer,junior power platform developer,Junior ontwikkelaar,Junior Power Platform Developer,Brunel,2025-10-28,,52,585,
+Senior Business Controller,senior business controller,Senior Bedrijfscontroller,Senior Business Controller,Brunel,2025-02-13,2025-03-29,14,602,44.0
+Senior Project Manager,senior project manager,Senior projectmanager,Senior Project Manager,Brunel,2025-10-08,2025-10-13,69,502,5.0
+Transactie Monitoring Analist,transactie monitoring analist,Transactie-analist,Transactie Monitoring Analist,Brunel,2025-03-28,2025-05-19,34,553,52.0
+Learning & Development Specialist,learning & development specialist,Leer- en ontwikkelingsspecialist,Learning & Development Specialist,Brunel,2024-12-07,2024-12-17,24,559,10.0
+Finance Talenten Programma,finance talenten programma,Financiën,Finance Talenten Programma,Brunel,2025-02-13,2025-04-07,28,558,53.0
+Product Owner,product owner,Producteigenaar,Product Owner,Brunel,2024-12-10,2025-01-06,25,564,27.0
+Traineeship Maintenance Engineer,traineeship maintenance engineer,Onderhoudsingenieur,Traineeship Maintenance Engineer,Brunel,2025-02-13,2025-04-07,52,513,53.0
+Servicemanager IT,servicemanager it,Servicemanager,Servicemanager IT,Brunel,2025-06-17,2025-07-08,29,518,21.0
+Financieel Data Analist,financieel data analist,Data-analist,Financieel Data Analist,Brunel,2025-02-13,2025-03-21,56,557,36.0
+Reliability Engineer,reliability engineer,Ingenieur betrouwbaarheid,Reliability Engineer,Brunel,2025-03-28,2025-05-19,29,559,52.0
+Teammanager Engineering,teammanager engineering,Specialist techniek,Teammanager Engineering,Brunel,2025-06-06,2025-07-06,23,528,30.0
+Automation Engineer,automation engineer,Ingenieur automatisering,Automation Engineer,Brunel,2025-08-25,2025-09-24,37,507,30.0
+Layout Engineer,layout engineer,Ingenieur lay-out,Layout Engineer,Brunel,2025-07-23,2025-08-22,37,521,30.0
+HSE Manager,hse manager,HSE-manager,HSE Manager,Brunel,2025-08-04,2025-09-03,43,497,30.0
+Legal Counsel Energy,legal counsel energy,Juridisch adviseur,Legal Counsel Energy,Brunel,2025-10-31,,23,540,
+Information Security Officer ( ISO),information security officer ( iso),Medewerker informatiebeveiliging,Information Security Officer ( ISO),Brunel,2025-10-31,,25,492,
+Medior CDD Analist,medior cdd analist,Analist tegen Geldwitwassen,Medior CDD Analist,Brunel,2025-08-18,2025-09-17,10,532,30.0
+IT-recruiter,it-recruiter,IT-recruiter,IT-recruiter,Brunel,2025-09-26,2025-10-24,18,523,28.0
+Privacy Officer,privacy officer,Bedrijfsjurist,Privacy Officer,Brunel,2025-11-05,,24,483,
+Senior Communicatieadviseur,senior communicatieadviseur,Communicatieadviseur,Senior Communicatieadviseur,Brunel,2025-09-01,2025-09-15,17,483,14.0
+DevOps Engineer,devops engineer,DevOps Engineer,DevOps Engineer,Brunel,2025-02-13,2025-03-15,63,479,30.0
+Power Platform Developer,power platform developer,Ontwikkelaar,Power Platform Developer,Brunel,2025-09-30,2025-10-30,39,464,30.0
+Junior IT Support Engineer,junior it support engineer,Ondersteuningstechnicus ICT,Junior IT Support Engineer,Brunel,2025-05-23,2025-06-22,44,486,30.0
+Information Security Officer,information security officer,Medewerker informatiebeveiliging,Information Security Officer,Brunel,2025-05-21,2025-06-20,18,434,30.0
+Project & Supply Lead,project & supply lead,Bevoorradingsspecialist,Project & Supply Lead,Brunel,2025-10-03,2025-10-06,56,435,3.0
+Senior Energieconsultant,senior energieconsultant,Senior Energieconsultant,Senior Energieconsultant,Brunel,2025-08-22,2025-09-21,17,470,30.0
+Senior Project Manager Offshore Wind,senior project manager offshore wind,Senior projectmanager,Senior Project Manager Offshore Wind,Brunel,2024-12-03,2025-01-29,12,491,57.0
+Projectcoördinator,projectcoördinator,Coördinator bedrijfsvoering,Projectcoördinator,Brunel,2025-02-19,2025-02-28,54,433,9.0
+Projectmanager,projectmanager,Projectmanager,Projectmanager,Brunel,2025-06-06,2025-07-06,18,481,30.0
+Junior Privacy Jurist,junior privacy jurist,Privacy Advocaat,Junior Privacy Jurist,Brunel,2025-02-13,2025-03-29,25,453,44.0
+Oracle Database Administrator,oracle database administrator,Oracle DBA,Oracle Database Administrator,Brunel,2025-03-28,2025-04-19,58,436,22.0
+Cloud Architect,cloud architect,Cloud-architect,Cloud Architect,Brunel,2025-06-25,2025-07-25,28,460,30.0
+Medior KYC/CDD analist,medior kyc/cdd analist,Analist tegen Geldwitwassen,Medior KYC/CDD analist,Brunel,2025-03-28,2025-04-27,21,448,30.0
+IT Supportmedewerker,it supportmedewerker,ICT-specialist,IT Supportmedewerker,Brunel,2025-08-08,2025-09-07,24,438,30.0
+Project Manager Ondersteuner,project manager ondersteuner,Projectmanager,Project Manager Ondersteuner,Brunel,2025-06-13,2025-06-25,11,417,12.0
+M365 consultant,m365 consultant,Consultant,M365 consultant,Brunel,2025-08-25,2025-09-24,25,421,30.0
+Junior ICT Support Medewerker,junior ict support medewerker,ICT-medewerker,Junior ICT Support Medewerker,Brunel,2025-03-28,2025-05-19,24,441,52.0
+Multi Client Pool ICT Servicedeskmedewerker,multi client pool ict servicedeskmedewerker,Klantspecialist,Multi Client Pool ICT Servicedeskmedewerker,Brunel,2025-03-28,2025-05-19,16,440,52.0
+SharePoint specialist,sharepoint specialist,Sharepoint-specialist,SharePoint specialist,Brunel,2025-08-25,2025-09-24,25,406,30.0
+Junior Project Engineer Duurzame Energie,junior project engineer duurzame energie,Junior Projectingenieur,Junior Project Engineer Duurzame Energie,Brunel,2025-01-06,2025-02-05,25,407,30.0
+IT Support Engineer,it support engineer,Ondersteuningstechnicus ICT,IT Support Engineer,Brunel,2024-12-10,2025-01-06,42,404,27.0
+Maintenance Manager,maintenance manager,Onderhoudsmanager,Maintenance Manager,Brunel,2025-05-21,2025-06-20,51,385,30.0
+Junior PLC Engineer - Maritiem / Industrie,junior plc engineer - maritiem / industrie,Junior ingenieur,Junior PLC Engineer - Maritiem / Industrie,Brunel,2025-06-19,2025-07-16,37,382,27.0
+Cyber Security Consultant,cyber security consultant,Cybersecurityconsultant,Cyber Security Consultant,Brunel,2025-03-28,2025-04-21,37,423,24.0
+Technisch Tekenaar,technisch tekenaar,Technisch tekenaar,Technisch Tekenaar,Brunel,2025-09-24,2025-10-24,29,389,30.0
+Junior HR Business Partner,junior hr business partner,HR-businesspartner,Junior HR Business Partner,Brunel,2024-11-20,2024-12-03,19,395,13.0
+Junior IT Servicedeskmedewerker,junior it servicedeskmedewerker,ICT-specialist,Junior IT Servicedeskmedewerker,Brunel,2025-07-14,2025-08-08,38,368,25.0
+Asset Projectmanager,asset projectmanager,Projectmanager,Asset Projectmanager,Brunel,2025-10-21,2025-11-18,7,416,28.0
+Software Engineer Service (PLC),software engineer service (plc),Software-ingenieur,Software Engineer Service (PLC),Brunel,2025-08-15,2025-09-14,11,390,30.0
+Business Consultant,business consultant,Bedrijfsadviseur,Business Consultant,Brunel,2025-09-16,2025-09-22,32,381,6.0
+IT Werkplekbeheerder,it werkplekbeheerder,Werkplekmanager,IT Werkplekbeheerder,Brunel,2025-03-28,2025-05-19,11,418,52.0
+Projectleider,projectleider,Projectleider,Projectleider,Brunel,2025-09-12,2025-10-10,17,372,28.0
+DevOps engineer Dynatrace,devops engineer dynatrace,DevOps Engineer,DevOps engineer Dynatrace,Brunel,2025-06-13,2025-07-13,44,384,30.0
+IT Support Medewerker - Apeldoorn,it support medewerker - apeldoorn,ICT-medewerker,IT Support Medewerker - Apeldoorn,Brunel,2025-02-13,2025-04-07,30,353,53.0
+Enterprise Architect,enterprise architect,Enterprise-architect,Enterprise Architect,Brunel,2025-03-28,2025-04-20,14,355,23.0
+Junior Adviseur Subsidies,junior adviseur subsidies,Toelagenconsulent,Junior Adviseur Subsidies,Brunel,2025-03-28,2025-04-27,13,389,30.0
+IT - Servicedesk Specialist,it - servicedesk specialist,ICT-specialist,IT - Servicedesk Specialist,Brunel,2025-03-28,2025-04-29,22,365,32.0
+Financial Controller,financial controller,Financieel controller,Financial Controller,Brunel,2025-02-13,2025-03-29,12,398,44.0
+Planner (Amersfoort / Borculo),planner (amersfoort / borculo),Productieplanner,Planner (Amersfoort / Borculo),Brunel,2025-05-15,2025-06-02,15,352,18.0
+Medior CDD Analist,medior cdd analist,Analist,Medior CDD Analist,Brunel,2025-10-20,2025-11-19,10,386,30.0
+Senior Support Engineer,senior support engineer,Senior ondersteuningsingenieur,Senior Support Engineer,Brunel,2025-09-09,2025-10-09,14,363,30.0
+Software Engineering Manager,software engineering manager,Manager softwaretechniek,Software Engineering Manager,Brunel,2025-04-04,2025-04-24,20,347,20.0
+People & Change Lead,people & change lead,Hoofd verandering,People & Change Lead,Brunel,2025-10-28,2025-10-30,6,367,2.0
+Functioneel Beheerder,functioneel beheerder,Functioneel manager,Functioneel Beheerder,Brunel,2025-10-22,2025-11-21,7,358,30.0
+Medior Adviseur Subsidies,medior adviseur subsidies,Subsidiemedewerker,Medior Adviseur Subsidies,Brunel,2025-07-14,2025-08-13,9,365,30.0
+Bedrijfsanalist,bedrijfsanalist,Bedrijfsanalist,Bedrijfsanalist,Brunel,2025-06-24,2025-07-24,26,342,30.0
+FP&A Controller,fp&a controller,Controller,FP&A Controller,Brunel,2024-12-18,2025-01-17,10,345,30.0
+Bedrijfsjurist,bedrijfsjurist,Bedrijfsjurist,Bedrijfsjurist,Brunel,2025-08-28,2025-09-27,9,356,30.0
+Junior IT Support,junior it support,ICT-ondersteuningsspecialist,Junior IT Support,Brunel,2025-01-15,2025-02-14,36,344,30.0
+Account Manager,account manager,Accountmanager,Account Manager,Brunel,2025-10-27,,13,342,
+Traineeship Reliability Engineering,traineeship reliability engineering,Specialist techniek,Traineeship Reliability Engineering,Brunel,2025-02-13,2025-04-07,15,327,53.0
+Project coordinator,project coordinator,Projectcoördinator,Project coordinator,Brunel,2025-03-21,2025-04-07,22,341,17.0
+Junior Subsidiebeoordelaar,junior subsidiebeoordelaar,Specialist Publiek Beleid,Junior Subsidiebeoordelaar,Brunel,2025-03-28,2025-05-19,12,336,52.0
+Tendermanager,tendermanager,Tendermanager,Tendermanager,Brunel,2025-05-21,2025-06-20,15,326,30.0
+Manager Juridische Zaken,manager juridische zaken,Manager juridische zaken,Manager Juridische Zaken,Brunel,2025-03-28,2025-04-20,4,355,23.0
+Senior Machine Learning Engineer,senior machine learning engineer,Senior Machine Learning Engineer,Senior Machine Learning Engineer,Brunel,2025-02-13,2025-03-15,51,323,30.0
+Servicedeskmedewerker,servicedeskmedewerker,Servicedesk-specialist,Servicedeskmedewerker,Brunel,2025-10-14,2025-11-13,12,340,30.0
+Junior Project Coördinator Installatietechniek,junior project coördinator installatietechniek,Projectcoördinator,Junior Project Coördinator Installatietechniek,Brunel,2024-12-03,2025-01-29,18,311,57.0
+Solution Architect,solution architect,Oplossingenarchitect,Solution Architect,Brunel,2025-03-28,2025-04-22,16,342,25.0
+Financial Risk Manager (NL),financial risk manager (nl),Manager financiële risico's,Financial Risk Manager (NL),Brunel,2025-02-13,2025-03-29,7,332,44.0
+Projectcontroller,projectcontroller,Financieel controller,Projectcontroller,Brunel,2025-02-12,2025-02-28,20,296,16.0
+Projectondersteuner,projectondersteuner,Projectmanager,Projectondersteuner,Brunel,2024-12-03,2025-01-29,9,338,57.0
+OT Engineer,ot engineer,Operationeel ingenieur,OT Engineer,Brunel,2025-05-21,2025-06-20,14,323,30.0
+Junior Subsidiebehandelaar,junior subsidiebehandelaar,Financiën,Junior Subsidiebehandelaar,Brunel,2025-03-28,2025-05-19,17,329,52.0
+Projectleider IT,projectleider it,Projectleider,Projectleider IT,Brunel,2025-09-15,2025-10-15,4,330,30.0
+ICT Support medewerker,ict support medewerker,ICT-medewerker,ICT Support medewerker,Brunel,2025-10-10,2025-11-09,7,322,30.0
+Medior IT-Servicedesk Specialist,medior it-servicedesk specialist,ICT-specialist,Medior IT-Servicedesk Specialist,Brunel,2025-01-04,2025-02-03,24,294,30.0
+ICT-systeembeheerder,ict-systeembeheerder,ICT-systeembeheerder,ICT-systeembeheerder,Brunel,2025-06-24,2025-07-24,34,278,30.0
+Medior KYC/CDD Analist Organisaties,medior kyc/cdd analist organisaties,Analist tegen Geldwitwassen,Medior KYC/CDD Analist Organisaties,Brunel,2025-03-28,2025-04-18,6,325,21.0
+ICT-supportmedewerker,ict-supportmedewerker,Beheerder ICT-support,ICT-supportmedewerker,Brunel,2025-06-24,2025-07-24,21,286,30.0
+Management Assistent,management assistent,Managementassistent,Management Assistent,Brunel,2025-11-13,2025-11-19,4,290,6.0
+Maintenance Engineer Elektrotechniek,maintenance engineer elektrotechniek,Onderhoudsingenieur,Maintenance Engineer Elektrotechniek,Brunel,2025-02-04,2025-02-28,35,246,24.0
+Senior KYC/CDD Analist,senior kyc/cdd analist,Analist tegen Geldwitwassen,Senior KYC/CDD Analist,Brunel,2025-03-28,2025-04-25,18,295,28.0
+Coördinator E&I,coördinator e&i,Projectmanager engineering,Coördinator E&I,Brunel,2024-12-20,2025-01-19,17,287,30.0
+Order Fulfilment Officer,order fulfilment officer,Supplychainmedewerker,Order Fulfilment Officer,Brunel,2025-05-21,2025-05-26,13,273,5.0
+Junior Jurist Bestuursrecht,junior jurist bestuursrecht,Junior advocaat,Junior Jurist Bestuursrecht,Brunel,2025-09-17,2025-10-17,13,301,30.0
+Senior Privacy Jurist,senior privacy jurist,Juridisch,Senior Privacy Jurist,Brunel,2025-10-02,2025-11-01,12,298,30.0
+Projectleider,projectleider,Projectmanager,Projectleider,Brunel,2025-06-06,2025-07-06,7,291,30.0
+Traineeship Technische Bedrijfskunde,traineeship technische bedrijfskunde,Bedrijfsbeheerder,Traineeship Technische Bedrijfskunde,Brunel,2025-03-28,2025-05-19,11,299,52.0
+Change en Releasemanager,change en releasemanager,Verander- en releasemanager,Change en Releasemanager,Brunel,2025-08-26,2025-09-15,7,276,20.0
+IT Support Medewerker,it support medewerker,ICT-medewerker,IT Support Medewerker,Brunel,2025-07-14,2025-08-08,23,266,25.0
+Werkplekbeheerder,werkplekbeheerder,Werkplekmanager,Werkplekbeheerder,Brunel,2025-03-28,2025-05-19,7,300,52.0
+Maintenance Engineer Mechanical,maintenance engineer mechanical,Onderhoudsingenieur,Maintenance Engineer Mechanical,Brunel,2025-03-06,2025-04-03,32,250,28.0
+ICT Servicedesk,ict servicedesk,ICT-servicedesk,ICT Servicedesk,Brunel,2024-12-24,2025-01-23,26,271,30.0
+Junior Jurist Bestuursrecht,junior jurist bestuursrecht,Juridisch,Junior Jurist Bestuursrecht,Brunel,2025-08-14,2025-09-13,16,267,30.0
+Medior Project Engineer,medior project engineer,Projectingenieur,Medior Project Engineer,Brunel,2025-01-15,2025-02-04,13,278,20.0
+Servicedesk Specialist IT,servicedesk specialist it,Servicedesk-specialist,Servicedesk Specialist IT,Brunel,2025-01-28,2025-02-06,19,273,9.0
+Medior/Senior CDD Analist,medior/senior cdd analist,Financieel analist,Medior/Senior CDD Analist,Brunel,2025-05-16,2025-06-15,6,262,30.0
+Netwerkbeheer,netwerkbeheer,Netwerkingenieur,Netwerkbeheer,Brunel,2025-09-02,2025-10-02,16,258,30.0
+Onderhoudscoördinator,onderhoudscoördinator,Onderhoudscoördinator,Onderhoudscoördinator,Brunel,2025-01-21,2025-02-17,6,273,27.0
+Senior Jurist Beroep,senior jurist beroep,Senior Advocaat,Senior Jurist Beroep,Brunel,2025-10-01,2025-10-31,2,287,30.0
+Procesmanager Amersfoort,procesmanager amersfoort,Procesmanager,Procesmanager Amersfoort,Brunel,2025-01-06,2025-02-05,6,263,30.0
+Medior KYC/CDD analist Tilburg,medior kyc/cdd analist tilburg,Analist tegen Geldwitwassen,Medior KYC/CDD analist Tilburg,Brunel,2025-01-28,2025-02-06,10,267,9.0
+Support Engineer IT,support engineer it,ICT-ingenieur,Support Engineer IT,Brunel,2025-01-15,2025-02-14,26,249,30.0
+Senior Privacy Jurist,senior privacy jurist,Juridisch specialist,Senior Privacy Jurist,Brunel,2025-08-05,2025-09-04,6,269,30.0
+Financieel Coach Utrecht,financieel coach utrecht,Financieel coach,Financieel Coach Utrecht,Brunel,2025-09-25,2025-10-25,8,264,30.0
+Schadebehandelaar,schadebehandelaar,Schadebehandelaar,Schadebehandelaar,Brunel,2025-10-23,2025-11-22,1,275,30.0
+Systeembeheerder,systeembeheerder,Systeembeheerder,Systeembeheerder,Brunel,2025-09-02,2025-10-02,10,256,30.0
+Adviseur Subsidies,adviseur subsidies,Toelagenconsulent,Adviseur Subsidies,Brunel,2025-08-20,2025-09-12,9,241,23.0
+Compliance Adviseur,compliance adviseur,Compliance-adviseur,Compliance Adviseur,Brunel,2025-02-28,2025-04-07,5,265,38.0
+Informatie Adviseur,informatie adviseur,Informatie-adviseur,Informatie Adviseur,Brunel,2025-09-30,2025-10-30,7,264,30.0
+Bedrijfsleider,bedrijfsleider,Bedrijfsleider,Bedrijfsleider,Brunel,2025-11-04,2025-11-10,7,246,6.0
+Jurist Rechtsbijstand (senior),jurist rechtsbijstand (senior),Senior Advocaat,Jurist Rechtsbijstand (senior),Brunel,2025-10-07,2025-11-06,4,261,30.0
+Senior Financial Accountant,senior financial accountant,Senior financieel boekhouder,Senior Financial Accountant,Brunel,2024-12-17,2025-01-16,21,236,30.0
+ICT Support,ict support,ICT-ondersteuning,ICT Support,Brunel,2024-12-24,2025-02-07,17,252,45.0
+Junior Hypotheekacceptant,junior hypotheekacceptant,Hypotheekverzekeraar,Junior Hypotheekacceptant,Brunel,2025-09-03,2025-10-03,8,249,30.0
+Quality Specialist,quality specialist,Kwaliteitsspecialist,Quality Specialist,Brunel,2025-11-20,2025-11-24,25,216,4.0
+Senior Jurist Omgevingsrecht,senior jurist omgevingsrecht,Juridisch specialist,Senior Jurist Omgevingsrecht,Brunel,2025-09-01,2025-10-01,2,239,30.0
+Senior Privacy Jurist,senior privacy jurist,Privacy Advocaat,Senior Privacy Jurist,Brunel,2025-09-04,2025-10-04,4,243,30.0
+Maintenance Trainee,maintenance trainee,Onderhoudstechnicus,Maintenance Trainee,Brunel,2024-11-13,2024-12-13,27,189,30.0
+Junior Processpecialist,junior processpecialist,Processpecialist,Junior Processpecialist,Brunel,2024-12-10,2025-01-09,12,224,30.0
+Senior Jurist Bezwaar Rijksoverheid,senior jurist bezwaar rijksoverheid,Advocaat,Senior Jurist Bezwaar Rijksoverheid,Brunel,2025-09-16,2025-10-16,1,242,30.0
+Junior Project Engineer Utiliteit Werktuigbouwkundig,junior project engineer utiliteit werktuigbouwkundig,Junior Projectingenieur,Junior Project Engineer Utiliteit Werktuigbouwkundig,Brunel,2025-01-15,2025-02-04,21,211,20.0
+ILS Engineer,ils engineer,Ingenieur,ILS Engineer,Brunel,2025-07-31,2025-08-30,10,223,30.0
+Traineeship Technische Bedrijfskunde,traineeship technische bedrijfskunde,Trainee,Traineeship Technische Bedrijfskunde,Brunel,2025-08-04,2025-09-03,6,234,30.0
+Subsidiemedewerker Utrecht,subsidiemedewerker utrecht,Subsidiemedewerker,Subsidiemedewerker Utrecht,Brunel,2025-05-07,2025-06-06,8,232,30.0
+Junior Project Engineer Utiliteit elektrotechniek,junior project engineer utiliteit elektrotechniek,Junior Projectingenieur,Junior Project Engineer Utiliteit elektrotechniek,Brunel,2025-01-15,2025-01-28,14,216,13.0
+Procesmanager Utrecht,procesmanager utrecht,Procesmanager,Procesmanager Utrecht,Brunel,2025-01-06,2025-02-05,7,228,30.0
+Medior systeembeheerder Windows,medior systeembeheerder windows,Systeembeheerder,Medior systeembeheerder Windows,Brunel,2025-03-28,2025-04-19,15,211,22.0
+Medior KYC/CDD analist Tilburg HBO,medior kyc/cdd analist tilburg hbo,Analist tegen Geldwitwassen,Medior KYC/CDD analist Tilburg HBO,Brunel,2024-12-10,2025-01-09,6,211,30.0
+Cloud Engineer,cloud engineer,Cloud Engineer,Cloud Engineer,Brunel,2025-08-25,2025-09-02,25,207,8.0
+OT Engineer,ot engineer,Ingenieur,OT Engineer,Brunel,2025-06-23,2025-07-10,4,218,17.0
+Commissioning Engineer Data Centers – Electrical,commissioning engineer data centers - electrical,Ingenieur inbedrijfstelling,Commissioning Engineer Data Centers – Electrical,Brunel,2025-02-13,2025-03-15,26,187,30.0
+Werkvoorbereider scheepsbouw,werkvoorbereider scheepsbouw,Planner,Werkvoorbereider scheepsbouw,Brunel,2025-08-01,2025-08-31,6,208,30.0
+Hypotheekacceptant,hypotheekacceptant,Hypotheekverzekeraar,Hypotheekacceptant,Brunel,2025-09-23,2025-10-23,0,231,30.0
+Junior Privacy Jurist Utrecht,junior privacy jurist utrecht,Privacy Advocaat,Junior Privacy Jurist Utrecht,Brunel,2025-02-28,2025-03-29,7,206,29.0
+Financieel Coach,financieel coach,Financieel coach,Financieel Coach,Brunel,2025-05-20,2025-06-19,2,218,30.0
+Senior Project Controller,senior project controller,Senior Project Controller,Senior Project Controller,Brunel,2025-01-19,2025-02-18,14,204,30.0
+Junior Netwerk Engineer,junior netwerk engineer,Junior Netwerk Engineer,Junior Netwerk Engineer,Brunel,2025-03-06,2025-04-03,24,190,28.0
+Specialist automatisering,specialist automatisering,Specialist automatisering,Specialist automatisering,Brunel,2024-12-20,2025-01-19,16,176,30.0
+Administratief Medewerker Amersfoort,administratief medewerker amersfoort,Administratief medewerker,Administratief Medewerker Amersfoort,Brunel,2025-01-15,2025-01-28,5,198,13.0
+Jurist Bestuursrecht,jurist bestuursrecht,Advocaat,Jurist Bestuursrecht,Brunel,2025-05-19,2025-06-18,2,201,30.0
+Netwerk Security Engineer,netwerk security engineer,Beveiligingsingenieur,Netwerk Security Engineer,Brunel,2025-03-11,2025-04-07,9,197,27.0
+Senior Jurist Woo - Rijksoverheid,senior jurist woo - rijksoverheid,Advocaat,Senior Jurist Woo - Rijksoverheid,Brunel,2025-09-17,2025-10-17,1,223,30.0
+Teamleider Onderhoud,teamleider onderhoud,Teamleider onderhoud,Teamleider Onderhoud,Brunel,2025-08-13,2025-09-12,0,214,30.0
+Project Planner,project planner,Projectplanner,Project Planner,Brunel,2025-10-28,2025-11-03,7,191,6.0
+QA Sales Officer,qa sales officer,Medewerker kwaliteitszorg,QA Sales Officer,Brunel,2025-11-04,2025-11-25,5,212,21.0
+Sales Consultant Legal,sales consultant legal,Juridisch consulent,Sales Consultant Legal,Brunel,2025-01-15,2025-01-28,6,204,13.0
+Senior Netwerk Engineer,senior netwerk engineer,Senior netwerkingenieur,Senior Netwerk Engineer,Brunel,2025-03-06,2025-04-05,11,199,30.0
+Verzekeringsspecialist,verzekeringsspecialist,Verzekeringsspecialist,Verzekeringsspecialist,Brunel,2025-08-20,2025-09-19,4,201,30.0
+Traineeship OT & Industriële Automatisering,traineeship ot & industriële automatisering,Trainee,Traineeship OT & Industriële Automatisering,Brunel,2025-07-31,2025-08-30,10,195,30.0
+Projectmanager bouw,projectmanager bouw,Projectmanager bouw,Projectmanager bouw,Brunel,2025-02-12,2025-02-28,4,196,16.0
+Specialist Zakelijk Krediet,specialist zakelijk krediet,Bedrijfsspecialist,Specialist Zakelijk Krediet,Brunel,2025-05-22,2025-06-21,5,190,30.0
+Junior Netwerkbeheerder,junior netwerkbeheerder,Junior Netwerkbeheerder,Junior Netwerkbeheerder,Brunel,2024-11-20,2024-12-18,19,175,28.0
+Junior Jurist RO,junior jurist ro,Junior advocaat,Junior Jurist RO,Brunel,2025-03-28,2025-04-20,4,192,23.0
+Senior analist sancties,senior analist sancties,Senior analist,Senior analist sancties,Brunel,2025-02-28,2025-04-07,5,207,38.0
+Engineer Ondergrondse Infra,engineer ondergrondse infra,Infrastructuuringenieur,Engineer Ondergrondse Infra,Brunel,2024-12-20,2025-01-19,9,191,30.0
+Junior Hypotheekacceptant Amersfoort,junior hypotheekacceptant amersfoort,Hypotheekverzekeraar,Junior Hypotheekacceptant Amersfoort,Brunel,2025-09-23,2025-10-23,2,197,30.0
+Adviseur Wonen Centraal,adviseur wonen centraal,Adviseur,Adviseur Wonen Centraal,Brunel,2025-06-27,2025-07-27,2,198,30.0
+Senior Work Planner Production & Assembly,senior work planner production & assembly,Productieplanner,Senior Work Planner Production & Assembly,Brunel,2025-04-01,2025-04-14,5,197,13.0
+Junior ICT Servicedeskmedewerker,junior ict servicedeskmedewerker,ICT-specialist,Junior ICT Servicedeskmedewerker,Brunel,2025-01-28,2025-02-12,15,156,15.0
+Senior Jurist Bestuursrecht - Rijksoverheid,senior jurist bestuursrecht - rijksoverheid,Advocaat,Senior Jurist Bestuursrecht - Rijksoverheid,Brunel,2025-09-17,2025-10-17,0,203,30.0
+Recruitment Consultant,recruitment consultant,Recruitmentconsultant,Recruitment Consultant,Brunel,2024-11-05,2024-12-05,22,157,30.0
+Junior Jurist Contractenrecht,junior jurist contractenrecht,Junior advocaat,Junior Jurist Contractenrecht,Brunel,2025-02-13,2025-03-15,9,182,30.0
+CDD Analist,cdd analist,Analist,CDD Analist,Brunel,2025-01-28,2025-02-06,1,192,9.0
+Senior Jurist Handhaving,senior jurist handhaving,Juridisch medewerker,Senior Jurist Handhaving,Brunel,2025-09-15,2025-10-15,0,200,30.0
+Planner,planner,Planner,Planner,Brunel,2025-07-09,2025-07-15,12,176,6.0
+Junior Specialist Klantonboarding,junior specialist klantonboarding,Junior specialist,Junior Specialist Klantonboarding,Brunel,2025-02-28,2025-03-30,7,193,30.0
+Calculator,calculator,Kostenschatter,Calculator,Brunel,2025-02-19,2025-02-28,4,186,9.0
+Medior Jurist Bestuursrecht - Rijksoverheid,medior jurist bestuursrecht - rijksoverheid,Advocaat,Medior Jurist Bestuursrecht - Rijksoverheid,Brunel,2025-09-17,2025-10-17,4,194,30.0
+Werkvoorbereider Civiel - overheid,werkvoorbereider civiel - overheid,Planner,Werkvoorbereider Civiel - overheid,Brunel,2025-08-14,2025-09-13,4,182,30.0
+Medior Servicedeskmedewerker,medior servicedeskmedewerker,Servicedesk-specialist,Medior Servicedeskmedewerker,Brunel,2025-07-14,2025-08-08,4,172,25.0
+Senior Jurist Bezwaar Rijksoverheid,senior jurist bezwaar rijksoverheid,Senior Advocaat,Senior Jurist Bezwaar Rijksoverheid,Brunel,2025-10-15,2025-11-14,4,184,30.0
+Senior Jurist APV & Bijzondere Wetten,senior jurist apv & bijzondere wetten,Advocaat,Senior Jurist APV & Bijzondere Wetten,Brunel,2025-09-17,2025-10-17,1,185,30.0
+Senior systeembeheerder Windows,senior systeembeheerder windows,Senior systeembeheerder,Senior systeembeheerder Windows,Brunel,2025-03-11,2025-04-07,9,157,27.0
+Junior Werkvoorbereider Werktuigbouwkunde,junior werkvoorbereider werktuigbouwkunde,Mechanisch Coördinator,Junior Werkvoorbereider Werktuigbouwkunde,Brunel,2025-10-23,2025-11-22,11,163,30.0
+Medior Privacy Jurist Utrecht,medior privacy jurist utrecht,Privacy Advocaat,Medior Privacy Jurist Utrecht,Brunel,2025-02-13,2025-03-29,1,166,44.0
+Junior Uitvoerder Civiele Techniek,junior uitvoerder civiele techniek,Constructiesupervisor,Junior Uitvoerder Civiele Techniek,Brunel,2025-04-17,2025-05-17,9,163,30.0
+Junior Projectleider Verduurzaming,junior projectleider verduurzaming,Projectleider,Junior Projectleider Verduurzaming,Brunel,2025-11-04,2025-11-12,14,154,8.0
+Contractbeheerder,contractbeheerder,Contractbeheerder,Contractbeheerder,Brunel,2025-10-15,2025-11-03,4,184,19.0
+Windows 11 werkplek specials (migratie),windows 11 werkplek specials (migratie),Windows-specialist,Windows 11 werkplek specials (migratie),Brunel,2025-03-28,2025-04-18,15,167,21.0
+Jurist Letselschade (medior) - HBO - Utrecht,jurist letselschade (medior) - hbo - utrecht,Advocaat,Jurist Letselschade (medior) - HBO - Utrecht,Brunel,2025-09-09,2025-10-09,3,173,30.0
+Klantcontactmedewerker - Verzekeringen & Pensioenen,klantcontactmedewerker - verzekeringen & pensioenen,Klantmedewerker,Klantcontactmedewerker - Verzekeringen & Pensioenen,Brunel,2025-08-15,2025-09-14,4,161,30.0
+IT Support Specialist,it support specialist,ICT-ondersteuningsspecialist,IT Support Specialist,Brunel,2025-01-28,2025-02-06,9,167,9.0
+IT Support Multi Client Pool,it support multi client pool,ICT-ondersteuningsspecialist,IT Support Multi Client Pool,Brunel,2025-01-28,2025-02-12,7,166,15.0
+Domein Architect,domein architect,Domeinarchitect,Domein Architect,Brunel,2025-03-28,2025-04-20,1,160,23.0
+Onderhoudsplanner,onderhoudsplanner,Onderhoudsplanner,Onderhoudsplanner,Brunel,2025-02-04,2025-02-28,8,160,24.0
+Jurist Vastgoed & Grondzaken,jurist vastgoed & grondzaken,Juridisch,Jurist Vastgoed & Grondzaken ,Brunel,2025-06-06,2025-07-06,5,171,30.0
+Jurist Rechtsbijstand (Junior),jurist rechtsbijstand (junior),Junior advocaat,Jurist Rechtsbijstand (Junior),Brunel,2025-01-21,2025-02-04,10,155,14.0
+Windows Technisch Applicatiebeheerder,windows technisch applicatiebeheerder,Technisch applicatiemanager,Windows Technisch Applicatiebeheerder,Brunel,2025-03-28,2025-04-20,2,168,23.0
+Werkplekbeheer/IT Support,werkplekbeheer/it support,ICT-ondersteuningsspecialist,Werkplekbeheer/IT Support,Brunel,2025-03-11,2025-04-07,17,151,27.0
+Medior IT Support Engineer,medior it support engineer,Ondersteuningstechnicus ICT,Medior IT Support Engineer,Brunel,2025-01-28,2025-02-06,5,164,9.0
+Jurist Contractenrecht,jurist contractenrecht,Advocaat,Jurist Contractenrecht,Brunel,2025-03-28,2025-04-20,2,161,23.0
+Werkvoorbereider,werkvoorbereider,Projectplanner,Werkvoorbereider,Brunel,2025-06-04,2025-07-04,6,157,30.0
+Project manager datacenter,project manager datacenter,Projectmanager,Project manager datacenter,Brunel,2025-01-03,2025-01-29,12,130,26.0
+DevOps Engineer PAAS Windows,devops engineer paas windows,DevOps Engineer,DevOps Engineer PAAS Windows,Brunel,2025-01-28,2025-02-04,15,144,7.0
+Category Procurement Manager Packaging,category procurement manager packaging,Inkoopmanager,Category Procurement Manager Packaging,Brunel,2025-09-23,2025-09-24,17,132,1.0
+Junior Projectleider Bouwmanagement,junior projectleider bouwmanagement,Projectleider,Junior Projectleider Bouwmanagement,Brunel,2025-09-02,2025-09-17,7,137,15.0
+Traineeship Hypotheken,traineeship hypotheken,Hypotheekspecialist,Traineeship Hypotheken,Brunel,2025-01-28,2025-02-04,3,162,7.0
+Senior Jurist Omgevingsrecht,senior jurist omgevingsrecht,Senior Advocaat,Senior Jurist Omgevingsrecht,Brunel,2025-09-15,2025-10-15,2,162,30.0
+Planner/coördinator - IT,planner/coördinator - it,Planner,Planner/coördinator - IT,Brunel,2025-02-28,2025-04-07,4,146,38.0
+Systeembeheerder Windows,systeembeheerder windows,Systeembeheerder,Systeembeheerder Windows,Brunel,2025-01-19,2025-02-18,6,152,30.0
+Junior Subsidieadviseur Utrecht,junior subsidieadviseur utrecht,Financiën,Junior Subsidieadviseur Utrecht,Brunel,2025-01-06,2025-02-05,3,147,30.0
+Project Engineer Duurzame Energie,project engineer duurzame energie,Projectingenieur,Project Engineer Duurzame Energie,Brunel,2025-03-11,2025-04-07,8,148,27.0
+Werkvoorbereider Vattenfall,werkvoorbereider vattenfall,Planner,Werkvoorbereider Vattenfall,Brunel,2025-07-15,2025-08-14,3,136,30.0
+Junior jurist handhaving,junior jurist handhaving,Junior advocaat,Junior jurist handhaving,Brunel,2025-03-28,2025-04-20,8,147,23.0
+Medior ICT Support Medewerker,medior ict support medewerker,ICT-medewerker,Medior ICT Support Medewerker,Brunel,2025-02-13,2025-03-29,2,157,44.0
+Medior Netwerk Engineer,medior netwerk engineer,Netwerkingenieur,Medior Netwerk Engineer,Brunel,2025-03-06,2025-04-05,10,141,30.0
+Medior Privacy Jurist,medior privacy jurist,Privacy Advocaat,Medior Privacy Jurist,Brunel,2025-02-13,2025-03-15,4,154,30.0
+Werkvoorbereider,werkvoorbereider,Planner,Werkvoorbereider,Brunel,2025-07-10,2025-08-09,4,145,30.0
+Modern Workplace Engineer,modern workplace engineer,Ingenieur,Modern Workplace Engineer,Brunel,2025-01-21,2025-02-04,6,147,14.0
+Jurist Handhaving,jurist handhaving,Juridisch specialist,Jurist Handhaving,Brunel,2025-06-06,2025-07-06,1,151,30.0
+Senior jurist handhaving,senior jurist handhaving,Juridisch specialist,Senior jurist handhaving,Brunel,2025-07-31,2025-08-30,0,135,30.0
+Projectleider Installatietechniek,projectleider installatietechniek,Projectleider,Projectleider Installatietechniek,Brunel,2025-09-01,2025-10-01,8,136,30.0
+Junior Subsidieadviseur Zwolle,junior subsidieadviseur zwolle,Financiën,Junior Subsidieadviseur Zwolle,Brunel,2025-01-06,2025-02-05,3,128,30.0
+Quantity Surveyor,quantity surveyor,Kwantiteitsbewaker,Quantity Surveyor,Brunel,2025-02-28,2025-03-29,15,120,29.0
+Traineeship Maintenance en Assetmanagement,traineeship maintenance en assetmanagement,Onderhoud,Traineeship Maintenance en Assetmanagement,Brunel,2025-03-06,2025-04-05,10,144,30.0
+Acceptant Verzekeringen,acceptant verzekeringen,Verzekeringsunderwriter,Acceptant Verzekeringen,Brunel,2025-05-19,2025-06-18,7,132,30.0
+Medewerker business support Inkoop JP1022,medewerker business support inkoop jp1022,Medewerker inkoop,Medewerker business support Inkoop JP1022,Brunel,2025-01-03,2025-01-15,1,124,12.0
+Junior Subsidieadviseur Den Haag,junior subsidieadviseur den haag,Financiën,Junior Subsidieadviseur Den Haag,Brunel,2025-01-06,2025-02-05,6,130,30.0
+Monteur Schadeherstel,monteur schadeherstel,Monteur,Monteur Schadeherstel,Brunel,2025-08-15,2025-09-14,0,145,30.0
+Project Engineer Energie opwek Mechanisch,project engineer energie opwek mechanisch,Projectingenieur,Project Engineer Energie opwek Mechanisch,Brunel,2025-01-06,2025-02-05,5,134,30.0
+Productieplanner,productieplanner,Productieplanner,Productieplanner,Brunel,2025-06-04,2025-06-12,7,131,8.0
+Junior Jurist Sociaal Domein,junior jurist sociaal domein,Junior advocaat,Junior Jurist Sociaal Domein,Brunel,2024-12-10,2025-01-09,3,131,30.0
+Financieel Adviseur Klantbeheer,financieel adviseur klantbeheer,Financieel adviseur,Financieel Adviseur Klantbeheer,Brunel,2025-05-19,2025-06-18,2,140,30.0
+Bijzonder Beheer Specialist Utrecht,bijzonder beheer specialist utrecht,Specialist,Bijzonder Beheer Specialist Utrecht,Brunel,2025-09-09,2025-10-09,5,129,30.0
+Jurist Rechtsbijstand (Senior),jurist rechtsbijstand (senior),Juridisch,Jurist Rechtsbijstand (Senior),Brunel,2025-06-06,2025-07-06,4,139,30.0
+ICT support medewerker,ict support medewerker,ICT-medewerker,ICT support medewerker,Brunel,2025-03-07,2025-04-06,5,125,30.0
+IT Servicedeskmedewerker,it servicedeskmedewerker,ICT-specialist,IT Servicedeskmedewerker,Brunel,2025-01-19,2025-02-18,8,121,30.0
+Maintenance Engineer Projecten MJOP,maintenance engineer projecten mjop,Onderhoudsingenieur,Maintenance Engineer Projecten MJOP,Brunel,2025-01-19,2025-02-04,8,126,16.0
+Junior Bezwaarjurist - Utrecht,junior bezwaarjurist - utrecht,Advocaat,Junior Bezwaarjurist - Utrecht,Brunel,2025-01-15,2025-02-14,3,125,30.0
+Werkvoorbereider Maintenance,werkvoorbereider maintenance,Onderhoudsplanner,Werkvoorbereider Maintenance,Brunel,2025-04-17,2025-05-17,3,125,30.0
+Technisch Specialist Windmolens,technisch specialist windmolens,Technisch specialist,Technisch Specialist Windmolens,Brunel,2025-06-02,2025-07-02,5,128,30.0
+Subsidiemedewerker,subsidiemedewerker,Subsidiemedewerker,Subsidiemedewerker,Brunel,2025-01-15,2025-02-14,4,126,30.0
+Junior Uitvoerder Bouwkunde,junior uitvoerder bouwkunde,Constructiesupervisor,Junior Uitvoerder Bouwkunde,Brunel,2025-04-17,2025-05-17,5,126,30.0
+Junior Werkvoorbereider bouwkunde,junior werkvoorbereider bouwkunde,Junior Planner,Junior Werkvoorbereider bouwkunde,Brunel,2024-11-20,2024-12-20,8,130,30.0
+Medior Privacy Jurist Den Haag,medior privacy jurist den haag,Privacy Advocaat,Medior Privacy Jurist Den Haag,Brunel,2025-02-28,2025-03-30,2,131,30.0
+Projectorganisator Bouw,projectorganisator bouw,Bouw,Projectorganisator Bouw,Brunel,2025-02-12,2025-02-28,9,120,16.0
+Medior Subsidiebeoordelaar,medior subsidiebeoordelaar,Specialist Publiek Beleid,Medior Subsidiebeoordelaar,Brunel,2025-06-27,2025-07-27,2,111,30.0
+Jurist Bezwaar & Beroep Omgevingsrecht HBO Senior,jurist bezwaar & beroep omgevingsrecht hbo senior,Advocaat,Jurist Bezwaar & Beroep Omgevingsrecht HBO Senior,Brunel,2025-08-01,2025-08-31,0,128,30.0
+Medior analist sancties a.i.,medior analist sancties a.i.,Analist,Medior analist sancties a.i.,Brunel,2025-02-28,2025-03-11,2,129,11.0
+Junior Jurist Subsidierecht,junior jurist subsidierecht,Junior advocaat,Junior Jurist Subsidierecht,Brunel,2025-03-28,2025-04-15,4,119,18.0
+Jurist Bezwaar & Beroep Senior WO,jurist bezwaar & beroep senior wo,Senior Advocaat,Jurist Bezwaar & Beroep Senior WO,Brunel,2025-01-06,2025-02-05,9,117,30.0
+Junior Jurist Milieu,junior jurist milieu,Junior advocaat,Junior Jurist Milieu,Brunel,2024-12-10,2025-01-09,3,114,30.0
+Medior Adviseur Subsidies Zwolle,medior adviseur subsidies zwolle,Toelagenconsulent,Medior Adviseur Subsidies Zwolle,Brunel,2025-03-28,2025-04-22,2,121,25.0
+Traineeship subsidies,traineeship subsidies,Trainee,Traineeship subsidies,Brunel,2024-12-24,2025-01-23,6,113,30.0
+SCCM/Intune Specialist,sccm/intune specialist,Specialist,SCCM/Intune Specialist,Brunel,2025-02-28,2025-03-29,13,105,29.0
+Medior Project Engineer Energie opwek Werktuigbouwkunde,medior project engineer energie opwek werktuigbouwkunde,Projectingenieur,Medior Project Engineer Energie opwek Werktuigbouwkunde,Brunel,2025-01-06,2025-02-05,4,118,30.0
+Senior Jurist Contractenrecht,senior jurist contractenrecht,Senior Advocaat,Senior Jurist Contractenrecht,Brunel,2025-03-06,2025-04-05,0,122,30.0
+Acceptant Woninghypotheken,acceptant woninghypotheken,Underwriter,Acceptant Woninghypotheken,Brunel,2025-01-06,2025-02-05,0,129,30.0
+ICT Servicedeskmedewerker – Zwolle,ict servicedeskmedewerker - zwolle,ICT-specialist,ICT Servicedeskmedewerker – Zwolle,Brunel,2025-01-21,2025-02-04,5,110,14.0
+Jurist Letselschade medior,jurist letselschade medior,Advocaat,Jurist Letselschade medior,Brunel,2024-12-03,2025-01-06,3,118,34.0
+Jurist APV & Bijzondere wetten,jurist apv & bijzondere wetten,Juridisch,Jurist APV & Bijzondere wetten,Brunel,2025-06-06,2025-07-06,3,108,30.0
+Project Engineer Hoogspanning,project engineer hoogspanning,Projectingenieur,Project Engineer Hoogspanning,Brunel,2025-03-11,2025-04-07,3,108,27.0
+Junior Jurist Woo bij de Rijksoverheid,junior jurist woo bij de rijksoverheid,Junior advocaat,Junior Jurist Woo bij de Rijksoverheid,Brunel,2025-01-03,2025-02-02,5,114,30.0
+Traineeship Hypotheekacceptant Amsterdam,traineeship hypotheekacceptant amsterdam,Hypotheekverzekeraar,Traineeship Hypotheekacceptant Amsterdam,Brunel,2025-01-06,2025-02-05,2,119,30.0
+Adviseur Ruimtelijke Ordening Energie-Infrastructuur,adviseur ruimtelijke ordening energie-infrastructuur,Energieconsultant,Adviseur Ruimtelijke Ordening Energie-Infrastructuur,Brunel,2025-11-12,,2,101,
+Medior Adviseur Subsidies,medior adviseur subsidies,Toelagenconsulent,Medior Adviseur Subsidies,Brunel,2025-07-30,2025-08-12,0,111,13.0
+ICT Servicedeskmedewerker - Zwolle,ict servicedeskmedewerker - zwolle,ICT-specialist,ICT Servicedeskmedewerker - Zwolle,Brunel,2025-05-21,2025-06-04,2,106,14.0
+ICT Support Engineer,ict support engineer,Ondersteuningstechnicus ICT,ICT Support Engineer,Brunel,2025-03-04,2025-04-07,5,107,34.0
+Senior Maintenance Engineer E&I,senior maintenance engineer e&i,Hoofd Onderhoudsingenieur,Senior Maintenance Engineer E&I,Brunel,2025-01-28,2025-02-13,15,98,16.0
+Letselschadebehandelaar,letselschadebehandelaar,Schade-expert,Letselschadebehandelaar,Brunel,2024-12-03,2025-01-06,0,105,34.0
+Jurist Letselschade Achmea,jurist letselschade achmea,Advocaat,Jurist Letselschade Achmea,Brunel,2024-12-03,2025-01-02,6,102,30.0
+Projectleider Technisch Onderhoud,projectleider technisch onderhoud,Projectleider,Projectleider Technisch Onderhoud,Brunel,2025-03-06,2025-04-05,7,107,30.0
+Pensioenspecialist,pensioenspecialist,Pensioenspecialist,Pensioenspecialist,Brunel,2025-01-21,2025-02-20,0,103,30.0
+Junior Jurist Woo bij de Rijksoverheid,junior jurist woo bij de rijksoverheid,Advocaat,Junior Jurist Woo bij de Rijksoverheid,Brunel,2025-11-05,,10,96,
+SCCM Specialist,sccm specialist,Specialist,SCCM Specialist,Brunel,2025-03-06,2025-04-03,6,98,28.0
+Assetmanagement Water,assetmanagement water,Facilitair manager,Assetmanagement Water,Brunel,2025-03-11,2025-04-07,1,104,27.0
+Medewerker Betaalachterstanden Amsterdam,medewerker betaalachterstanden amsterdam,Medewerker,Medewerker Betaalachterstanden Amsterdam,Brunel,2025-01-15,2025-02-14,3,105,30.0
+Senior Jurist Letselschade,senior jurist letselschade,Advocaat,Senior Jurist Letselschade,Brunel,2025-06-06,2025-07-06,0,100,30.0
+Juridisch Vergunningverlener HBO Junior,juridisch vergunningverlener hbo junior,Juridisch,Juridisch Vergunningverlener HBO Junior,Brunel,2025-01-15,2025-02-14,1,100,30.0
+Senior Werkvoorbereider,senior werkvoorbereider,Projectingenieur,Senior Werkvoorbereider,Brunel,2025-02-12,2025-02-28,4,102,16.0
+Werkvoorbereider Procesindustrie,werkvoorbereider procesindustrie,Planner,Werkvoorbereider Procesindustrie,Brunel,2025-04-17,2025-05-17,0,101,30.0
+DevOps Engineer PAAS Windows,devops engineer paas windows,Software-ingenieur,DevOps Engineer PAAS Windows,Brunel,2024-12-03,2025-01-02,6,101,30.0
+Jurist Rijksoverheid,jurist rijksoverheid,Advocaat,Jurist Rijksoverheid,Brunel,2025-03-06,2025-04-05,2,108,30.0
+ICT Servicedeskmedewerker,ict servicedeskmedewerker,Servicedesk-specialist,ICT Servicedeskmedewerker,Brunel,2025-01-15,2025-02-14,6,107,30.0
+Specialist Schuldhulp Leeuwarden,specialist schuldhulp leeuwarden,Specialist,Specialist Schuldhulp Leeuwarden,Brunel,2024-12-03,2025-01-02,3,95,30.0
+Junior Subsidiebeoordelaar,junior subsidiebeoordelaar,Financiën,Junior Subsidiebeoordelaar,Brunel,2025-03-06,2025-04-05,1,105,30.0
+Jurist Woo bij de Rijksoverheid,jurist woo bij de rijksoverheid,Advocaat,Jurist Woo bij de Rijksoverheid,Brunel,2025-03-28,2025-04-14,2,97,17.0
+Medior Adviseur Subsidies Den Haag,medior adviseur subsidies den haag,Toelagenconsulent,Medior Adviseur Subsidies Den Haag,Brunel,2025-03-11,2025-04-07,0,99,27.0
+Senior Jurist Sociaal Domein,senior jurist sociaal domein,Senior Advocaat,Senior Jurist Sociaal Domein,Brunel,2025-03-28,2025-04-21,0,100,24.0
+Traineeship Hypotheekacceptatie,traineeship hypotheekacceptatie,Trainee,Traineeship Hypotheekacceptatie,Brunel,2025-01-15,2025-01-28,3,100,13.0
+Maintenance Engineer Werktuigbouwkunde,maintenance engineer werktuigbouwkunde,Onderhoudsingenieur,Maintenance Engineer Werktuigbouwkunde,Brunel,2025-01-15,2025-02-14,1,100,30.0
+Project Engineer Energie opwek Elektrotechniek,project engineer energie opwek elektrotechniek,Projectingenieur,Project Engineer Energie opwek Elektrotechniek,Brunel,2025-01-06,2025-02-05,7,103,30.0
+Juridisch Vergunningverlener WO Junior,juridisch vergunningverlener wo junior,Juridisch,Juridisch Vergunningverlener WO Junior,Brunel,2025-01-15,2025-01-28,3,98,13.0
+Financieringsassistent,financieringsassistent,Financieel adviseur,Financieringsassistent,Brunel,2025-06-27,2025-07-27,4,78,30.0
+Procesmanager Utrecht,procesmanager utrecht,Manager procestechniek,Procesmanager Utrecht,Brunel,2024-11-13,2024-12-13,0,87,30.0
+Medior Jurist Contractenrecht,medior jurist contractenrecht,Advocaat,Medior Jurist Contractenrecht,Brunel,2025-01-03,2025-02-02,1,99,30.0
+Assetmanagement Water Utrecht,assetmanagement water utrecht,Werktuigbouwkundige,Assetmanagement Water Utrecht,Brunel,2025-03-06,2025-04-03,4,91,28.0
+Jurist Bezwaar en Beroep bij de Rijksoverheid,jurist bezwaar en beroep bij de rijksoverheid,Advocaat,Jurist Bezwaar en Beroep bij de Rijksoverheid,Brunel,2025-11-05,,4,90,
+Junior Jurist Vergunningen,junior jurist vergunningen,Junior advocaat,Junior Jurist Vergunningen,Brunel,2025-02-13,2025-03-15,3,88,30.0
+Medior Project Engineer Duurzame Energie,medior project engineer duurzame energie,Projectingenieur,Medior Project Engineer Duurzame Energie,Brunel,2025-01-06,2025-02-05,6,94,30.0
+Bijzonder Beheer Specialist Amsterdam,bijzonder beheer specialist amsterdam,Specialist,Bijzonder Beheer Specialist Amsterdam,Brunel,2025-08-14,2025-09-09,0,95,26.0
+Senior Bezwaarjurist - Utrecht,senior bezwaarjurist - utrecht,Juridisch specialist,Senior Bezwaarjurist - Utrecht,Brunel,2025-11-05,,0,96,
+Junior Werkvoorbereider Civiele Techniek,junior werkvoorbereider civiele techniek,Junior Planner,Junior Werkvoorbereider Civiele Techniek,Brunel,2024-11-20,2024-12-20,7,91,30.0
+Senior Juridisch Planoloog HBO,senior juridisch planoloog hbo,Planoloog,Senior Juridisch Planoloog HBO,Brunel,2025-01-06,2025-02-05,5,87,30.0
+Junior Hypotheekacceptant Utrecht,junior hypotheekacceptant utrecht,Hypotheekverzekeraar,Junior Hypotheekacceptant Utrecht,Brunel,2025-01-06,2025-02-05,2,79,30.0
+Jurist Milieu,jurist milieu,Advocaat,Jurist Milieu,Brunel,2025-02-28,2025-04-07,2,86,38.0
+Kredietbeoordelaar Hypotheken Amersfoort,kredietbeoordelaar hypotheken amersfoort,Hypotheekspecialist,Kredietbeoordelaar Hypotheken Amersfoort,Brunel,2025-01-15,2025-02-14,2,91,30.0
+Specialist Financiële Administratie Overheid,specialist financiële administratie overheid,Ambtenaar,Specialist Financiële Administratie Overheid,Brunel,2025-01-29,2025-02-28,5,78,30.0
+IT - Medior Servicedesk Specialist,it - medior servicedesk specialist,ICT-specialist,IT - Medior Servicedesk Specialist,Brunel,2025-01-28,2025-02-06,2,84,9.0
+Beoordelaar Subsidies,beoordelaar subsidies,Beoordelaar,Beoordelaar Subsidies,Brunel,2025-01-28,2025-02-27,2,84,30.0
+Traineeship Hypotheekacceptant Utrecht,traineeship hypotheekacceptant utrecht,Hypotheekverzekeraar,Traineeship Hypotheekacceptant Utrecht,Brunel,2025-01-06,2025-02-05,0,88,30.0
+ICT Servicedesk Medewerker,ict servicedesk medewerker,ICT-servicedesk,ICT Servicedesk Medewerker,Brunel,2025-01-28,2025-02-06,8,78,9.0
+Traineeship Hypotheekacceptant Amersfoort,traineeship hypotheekacceptant amersfoort,Hypotheekverzekeraar,Traineeship Hypotheekacceptant Amersfoort,Brunel,2025-01-06,2025-02-05,0,85,30.0
+Medior Subsidie Beoordelaar Zwolle,medior subsidie beoordelaar zwolle,Beoordelaar,Medior Subsidie Beoordelaar Zwolle,Brunel,2025-03-06,2025-04-03,0,74,28.0
+Senior netwerkebeheerder,senior netwerkebeheerder,Senior specialist,Senior netwerkebeheerder,Brunel,2024-11-20,2024-12-20,4,81,30.0
+Maintenance Engineer Bouwkunde,maintenance engineer bouwkunde,Onderhoudsingenieur,Maintenance Engineer Bouwkunde,Brunel,2025-01-15,2025-02-14,2,84,30.0
+Uitvoerder onderhoud,uitvoerder onderhoud,Constructiesupervisor,Uitvoerder onderhoud,Brunel,2024-12-20,2025-01-19,2,77,30.0
+Senior Infrastructuur Automation Engineer,senior infrastructuur automation engineer,Senior automatiseringstechnicus,Senior Infrastructuur Automation Engineer,Brunel,2025-03-06,2025-04-03,4,80,28.0
+Testanalist,testanalist,Software-ingenieur,Testanalist,Brunel,2024-12-03,2025-01-02,8,70,30.0
+Junior Hypotheekacceptant Sittard,junior hypotheekacceptant sittard,Hypotheekverzekeraar,Junior Hypotheekacceptant Sittard,Brunel,2025-01-06,2025-02-05,1,79,30.0
+Medior Subsidieadviseur,medior subsidieadviseur,Financieel adviseur,Medior Subsidieadviseur,Brunel,2025-06-27,2025-07-27,1,77,30.0
+Werkvoorbereider Utiliteit Junior,werkvoorbereider utiliteit junior,Junior Planner,Werkvoorbereider Utiliteit Junior,Brunel,2025-01-15,2025-01-28,1,80,13.0
+Financieel Medewerker Amersfoort,financieel medewerker amersfoort,Financieel medewerker,Financieel Medewerker Amersfoort,Brunel,2025-01-28,2025-02-27,1,72,30.0
+Junior Adviseur Subsidies Roermond,junior adviseur subsidies roermond,Junior adviseur,Junior Adviseur Subsidies Roermond,Brunel,2025-01-15,2025-02-14,4,74,30.0
+Senior Financieel Adviseur Planning & Control,senior financieel adviseur planning & control,Senior financieel adviseur,Senior Financieel Adviseur Planning & Control,Brunel,2025-01-15,2025-02-14,2,78,30.0
+Specialist Bijzonder Beheer Diemen,specialist bijzonder beheer diemen,Specialist,Specialist Bijzonder Beheer Diemen,Brunel,2024-12-03,2025-01-02,0,77,30.0
+Senior Bezwaarjurist,senior bezwaarjurist,Senior specialist,Senior Bezwaarjurist,Brunel,2025-03-11,2025-04-07,2,73,27.0
+Hypothecair planner,hypothecair planner,Planner,Hypothecair planner,Brunel,2025-02-28,2025-03-29,1,74,29.0
+Senior Jurist Ruimtelijke Ordening,senior jurist ruimtelijke ordening,Senior Advocaat,Senior Jurist Ruimtelijke Ordening,Brunel,2025-08-01,2025-08-31,0,70,30.0
+Operationeel medewerker Hypotheken,operationeel medewerker hypotheken,Medewerker hypotheken,Operationeel medewerker Hypotheken,Brunel,2025-01-06,2025-02-05,0,73,30.0
+Jurist Rechtsbijstand (Senior),jurist rechtsbijstand (senior),Senior Advocaat,Jurist Rechtsbijstand (Senior),Brunel,2025-03-10,2025-04-07,0,75,28.0
+Werkvoorbereider Utiliteit Medior,werkvoorbereider utiliteit medior,Planner,Werkvoorbereider Utiliteit Medior,Brunel,2025-01-15,2025-02-04,1,73,20.0
+Hypotheekacceptant bij Stater in Amersfoort,hypotheekacceptant bij stater in amersfoort,Hypotheekverzekeraar,Hypotheekacceptant bij Stater in Amersfoort,Brunel,2025-01-15,2025-02-14,0,74,30.0
+Senior Jurist Vergunningen,senior jurist vergunningen,Senior Advocaat,Senior Jurist Vergunningen,Brunel,2025-02-13,2025-03-29,0,75,44.0
+Senior Handhavingsjurist HBO,senior handhavingsjurist hbo,Senior specialist,Senior Handhavingsjurist HBO,Brunel,2025-01-15,2025-02-14,1,71,30.0
+Senior Jurist Wet open overheid,senior jurist wet open overheid,Senior Advocaat,Senior Jurist Wet open overheid,Brunel,2025-01-03,2025-02-02,0,77,30.0
+Werkplekbeheer en Support,werkplekbeheer en support,Ondersteuning,Werkplekbeheer en Support,Brunel,2024-12-03,2024-12-20,1,66,17.0
+Senior Jurist Woo bij de Rijksoverheid,senior jurist woo bij de rijksoverheid,Senior Advocaat,Senior Jurist Woo bij de Rijksoverheid,Brunel,2025-01-06,2025-02-05,2,73,30.0
+Medior Project Engineer Energie opwek Elektrotechniek,medior project engineer energie opwek elektrotechniek,Projectingenieur,Medior Project Engineer Energie opwek Elektrotechniek,Brunel,2025-01-06,2025-02-05,0,71,30.0
+Medewerker (Backoffice) Hypotheken,medewerker (backoffice) hypotheken,Medewerker hypotheken,Medewerker (Backoffice) Hypotheken,Brunel,2025-01-15,2025-02-14,1,66,30.0
+Technisch ontwikkelaar / Planvoorbereider,technisch ontwikkelaar / planvoorbereider,Technisch ontwikkelaar,Technisch ontwikkelaar / Planvoorbereider,Brunel,2025-02-12,2025-02-28,2,71,16.0
+Operationeel medewerker Hypotheken Amersfoort,operationeel medewerker hypotheken amersfoort,Medewerker hypotheken,Operationeel medewerker Hypotheken Amersfoort,Brunel,2025-01-06,2025-02-05,1,70,30.0
+Werkvoorbereider Elektrotechniek - Schiphol,werkvoorbereider elektrotechniek - schiphol,Planner,Werkvoorbereider Elektrotechniek - Schiphol,Brunel,2025-01-15,2025-02-04,2,68,20.0
+Uitvoerder Bouwkunde,uitvoerder bouwkunde,Constructiesupervisor,Uitvoerder Bouwkunde,Brunel,2025-04-17,2025-05-17,1,59,30.0
+Senior Uitvoerder Bouwkunde,senior uitvoerder bouwkunde,Constructiesupervisor,Senior Uitvoerder Bouwkunde,Brunel,2025-04-17,2025-05-17,1,64,30.0
+Projectleider Civiele Techniek,projectleider civiele techniek,Projectleider,Projectleider Civiele Techniek,Brunel,2025-02-06,2025-03-29,4,65,51.0
+Handhavingsjurist HBO,handhavingsjurist hbo,Advocaat,Handhavingsjurist HBO,Brunel,2025-01-15,2025-02-14,1,64,30.0
+Senior Jurist Bestuursrecht,senior jurist bestuursrecht,Senior Advocaat,Senior Jurist Bestuursrecht,Brunel,2025-01-28,2025-02-27,0,65,30.0
+Maintenance Planner,maintenance planner,Onderhoudsplanner,Maintenance Planner,Brunel,2025-11-20,,4,60,
+Construction Manager,construction manager,Bouwmanager,Construction Manager,Brunel,2025-11-21,,5,63,
+Medior Werkvoorbereider Bouwkunde,medior werkvoorbereider bouwkunde,Planner,Medior Werkvoorbereider Bouwkunde,Brunel,2024-11-20,2024-12-20,0,63,30.0
+Projectmanager Tunnelventilatiesystemen,projectmanager tunnelventilatiesystemen,Projectmanager,Projectmanager Tunnelventilatiesystemen,Brunel,2024-11-13,2024-12-13,2,64,30.0
+Specialist Assetmanagement wo Utrecht,specialist assetmanagement wo utrecht,Specialist,Specialist Assetmanagement wo Utrecht,Brunel,2025-03-06,2025-04-03,0,65,28.0
+Business Support Vermogen,business support vermogen,Equity-specialist,Business Support Vermogen,Brunel,2024-11-20,2024-12-20,1,62,30.0
+Senior Project Engineer Utiliteit Elektrotechniek,senior project engineer utiliteit elektrotechniek,Senior projectingenieur,Senior Project Engineer Utiliteit Elektrotechniek,Brunel,2025-01-15,2025-02-04,0,67,20.0
+Medewerker (Backoffice) Hypotheken bij Stater in Amersfoort,medewerker (backoffice) hypotheken bij stater in amersfoort,Medewerker hypotheken,Medewerker (Backoffice) Hypotheken bij Stater in Amersfoort,Brunel,2025-01-15,2025-02-14,0,66,30.0
+Werkvoorbereider Werktuigbouwkunde - Schiphol,werkvoorbereider werktuigbouwkunde - schiphol,Mechanisch Coördinator,Werkvoorbereider Werktuigbouwkunde - Schiphol,Brunel,2025-01-15,2025-02-04,2,63,20.0
+Junior Hypotheekspecialist,junior hypotheekspecialist,Hypotheekspecialist,Junior Hypotheekspecialist,Brunel,2024-12-03,2025-01-02,0,60,30.0
+Modern Workplace Engineer,modern workplace engineer,Software-ingenieur,Modern Workplace Engineer,Brunel,2024-12-03,2025-01-02,3,60,30.0
+Junior Bezwaarjurist - Den Haag,junior bezwaarjurist - den haag,Advocaat,Junior Bezwaarjurist - Den Haag,Brunel,2024-12-03,2025-01-02,1,62,30.0
+Senior Juridisch Planoloog WO,senior juridisch planoloog wo,Planoloog,Senior Juridisch Planoloog WO,Brunel,2025-01-15,2025-02-14,0,59,30.0
+Traineeship Hypotheekacceptant Amsterdam,traineeship hypotheekacceptant amsterdam,Trainee,Traineeship Hypotheekacceptant Amsterdam,Brunel,2024-11-13,2024-12-13,5,60,30.0
+Medior Werkvoorbereider Civiele Techniek,medior werkvoorbereider civiele techniek,Civiele techniek,Medior Werkvoorbereider Civiele Techniek,Brunel,2024-11-20,2024-12-20,2,53,30.0
+Acceptant Verduurzaming Hilversum,acceptant verduurzaming hilversum,Underwriter,Acceptant Verduurzaming Hilversum,Brunel,2024-11-20,2024-12-20,2,57,30.0
+Werkvoorbereider / Technisch Klantadviseur – Energie & Infra,werkvoorbereider / technisch klantadviseur - energie & infra,Planner,Werkvoorbereider / Technisch Klantadviseur – Energie & Infra,Brunel,2025-03-06,2025-04-05,1,60,30.0
+Jurist Bouwrecht,jurist bouwrecht,Advocaat,Jurist Bouwrecht,Brunel,2025-03-11,2025-04-07,0,60,27.0
+Subsidiemedewerker Roermond,subsidiemedewerker roermond,Subsidiemedewerker,Subsidiemedewerker Roermond,Brunel,2025-01-28,2025-02-06,1,53,9.0
+Medior Bezwaarjurist - Den Haag,medior bezwaarjurist - den haag,Bedrijfsjurist,Medior Bezwaarjurist - Den Haag,Brunel,2025-01-15,2025-02-14,0,60,30.0
+Junior Jurist Omgevingsrecht,junior jurist omgevingsrecht,Junior advocaat,Junior Jurist Omgevingsrecht,Brunel,2025-01-28,2025-02-27,0,59,30.0
+Bouw/Civiel Projectleider,bouw/civiel projectleider,Bouw,Bouw/Civiel Projectleider,Brunel,2025-03-06,2025-04-03,2,51,28.0
+Specialist Hypotheken Rotterdam,specialist hypotheken rotterdam,Specialist,Specialist Hypotheken Rotterdam,Brunel,2024-11-20,2024-12-20,0,53,30.0
+Senior Functioneel Beheerder,senior functioneel beheerder,Senior Functioneel Manager,Senior Functioneel Beheerder,Brunel,2025-01-19,2025-01-28,0,55,9.0
+Jurist Vergunningen,jurist vergunningen,Advocaat,Jurist Vergunningen,Brunel,2025-01-28,2025-02-27,0,57,30.0
+Medior Project Engineer Installatietechniek,medior project engineer installatietechniek,Projectingenieur,Medior Project Engineer Installatietechniek,Brunel,2025-01-28,2025-02-13,6,53,16.0
+Juridisch Vergunningverlener HBO,juridisch vergunningverlener hbo,Juridisch,Juridisch Vergunningverlener HBO,Brunel,2025-01-19,2025-02-18,0,57,30.0
+Jurist Omgevingsrecht,jurist omgevingsrecht,Advocaat,Jurist Omgevingsrecht,Brunel,2025-01-28,2025-02-27,1,56,30.0
+Senior Handhavingsjurist WO,senior handhavingsjurist wo,Senior specialist,Senior Handhavingsjurist WO,Brunel,2025-01-19,2025-02-18,3,50,30.0
+Juridisch Vergunningverlener WO,juridisch vergunningverlener wo,Juridisch,Juridisch Vergunningverlener WO,Brunel,2025-01-19,2025-02-18,0,57,30.0
+Senior jurist handhaving,senior jurist handhaving,Senior Advocaat,Senior jurist handhaving,Brunel,2024-12-10,2025-01-09,0,53,30.0
+Projectleider Automatisering,projectleider automatisering,Projectsupervisor,Projectleider Automatisering,Brunel,2024-11-06,2024-12-06,1,53,30.0
+Projectorganisator Civiele Techniek,projectorganisator civiele techniek,Civiele techniek,Projectorganisator Civiele Techniek,Brunel,2025-03-11,2025-04-07,1,54,27.0
+Jurist Erfpacht,jurist erfpacht,Advocaat,Jurist Erfpacht,Brunel,2024-12-03,2025-01-02,2,52,30.0
+Projectorganisator Bouwkunde,projectorganisator bouwkunde,Projectmanager,Projectorganisator Bouwkunde,Brunel,2025-03-11,2025-04-07,3,47,27.0
+Junior Bouwkundig Werkvoorbereider,junior bouwkundig werkvoorbereider,Junior Planner,Junior Bouwkundig Werkvoorbereider,Brunel,2025-03-21,2025-03-28,3,42,7.0
+Bouwkundig Civiel Engineer,bouwkundig civiel engineer,Civiel ingenieur,Bouwkundig Civiel Engineer,Brunel,2025-03-21,2025-03-27,3,43,6.0
+Specialist Schuldhulp Diemen,specialist schuldhulp diemen,Specialist,Specialist Schuldhulp Diemen,Brunel,2024-12-03,2025-01-02,0,47,30.0
+Medior Jurist Subsidierecht,medior jurist subsidierecht,Advocaat,Medior Jurist Subsidierecht,Brunel,2025-03-28,2025-04-12,0,52,15.0
+MCP IT Specialist,mcp it specialist,ICT-specialist,MCP IT Specialist,Brunel,2025-03-21,2025-04-07,3,50,17.0
+Medior Subsidie Beoordelaar Den Haag,medior subsidie beoordelaar den haag,Beoordelaar,Medior Subsidie Beoordelaar Den Haag,Brunel,2024-12-24,2025-01-23,3,46,30.0
+Junior Werkvoorbereider Bouwkunde,junior werkvoorbereider bouwkunde,Junior Planner,Junior Werkvoorbereider Bouwkunde,Brunel,2025-02-06,2025-02-13,5,45,7.0
+junior jurist handhaving,junior jurist handhaving,Junior advocaat,junior jurist handhaving,Brunel,2024-11-13,2024-12-13,0,47,30.0
+Junior Bezwaarjurist - Utrecht - Wo,junior bezwaarjurist - utrecht - wo,Advocaat,Junior Bezwaarjurist - Utrecht - Wo,Brunel,2024-12-03,2025-01-02,1,47,30.0
+Junior Bezwaarjurist - Den Haag,junior bezwaarjurist - den haag,Juridisch medewerker,Junior Bezwaarjurist - Den Haag,Brunel,2024-12-03,2025-01-02,1,50,30.0
+Senior Jurist Milieu,senior jurist milieu,Senior Advocaat,Senior Jurist Milieu,Brunel,2024-12-10,2025-01-09,1,47,30.0
+Jurist Bezwaar & Beroep Omgevingswet HBO Junior,jurist bezwaar & beroep omgevingswet hbo junior,Advocaat,Jurist Bezwaar & Beroep Omgevingswet HBO Junior,Brunel,2025-01-15,2025-02-13,0,46,29.0
+Hypotheekacceptant Utrecht,hypotheekacceptant utrecht,Hypotheekverzekeraar,Hypotheekacceptant Utrecht,Brunel,2025-01-15,2025-02-14,0,50,30.0
+Specialist Beheer Hypotheken Utrecht,specialist beheer hypotheken utrecht,Specialist,Specialist Beheer Hypotheken Utrecht,Brunel,2024-11-20,2024-12-20,2,49,30.0
+Projectleider Bouwkunde,projectleider bouwkunde,Projectleider,Projectleider Bouwkunde,Brunel,2025-02-06,2025-03-11,4,43,33.0
+Specialist Beheer Woninghypotheken Sittard,specialist beheer woninghypotheken sittard,Specialist woninghypotheken,Specialist Beheer Woninghypotheken Sittard,Brunel,2024-11-20,2024-12-20,2,45,30.0
+Specialist Bijzonder Beheer Utrecht,specialist bijzonder beheer utrecht,Specialist,Specialist Bijzonder Beheer Utrecht,Brunel,2024-12-03,2025-01-02,0,43,30.0
+Werkvoorbereider Bouwkunde – Regio Noord,werkvoorbereider bouwkunde - regio noord,Projectplanner,Werkvoorbereider Bouwkunde – Regio Noord,Brunel,2025-02-24,2025-02-28,1,40,4.0
+Handhavingsjurist WO,handhavingsjurist wo,Juridisch specialist,Handhavingsjurist WO,Brunel,2025-01-19,2025-02-18,0,45,30.0
+WO Junior Jurist Omgevingsrecht,wo junior jurist omgevingsrecht,Junior advocaat,WO Junior Jurist Omgevingsrecht,Brunel,2025-01-28,2025-02-13,0,44,16.0
+Commissioning Engineer,commissioning engineer,Ingenieur inbedrijfstelling,Commissioning Engineer,Brunel,2025-03-21,2025-03-22,2,35,1.0
+Juridisch Planoloog WO,juridisch planoloog wo,Planoloog,Juridisch Planoloog WO,Brunel,2025-01-15,2025-02-13,2,40,29.0
+Functioneel Beheerder,functioneel beheerder,,Functioneel Beheerder,Brunel,2020-05-22,2020-05-29,0,34,7.0
+Jurist Sociaal Domein,jurist sociaal domein,Advocaat,Jurist Sociaal Domein,Brunel,2024-11-13,2024-12-13,0,42,30.0
+Jurist Bezwaar & Beroep Medior WO,jurist bezwaar & beroep medior wo,Advocaat,Jurist Bezwaar & Beroep Medior WO,Brunel,2025-01-15,2025-02-13,0,43,29.0
+Jurist handhaving,jurist handhaving,Advocaat,Jurist handhaving,Brunel,2025-03-06,2025-04-03,0,41,28.0
+Projectleider Elektrotechniek,projectleider elektrotechniek,Projectleider,Projectleider Elektrotechniek,Brunel,2025-01-19,2025-01-28,1,39,9.0
+Assistent Beleggen,assistent beleggen,Financiële Dienstverleningsassistent,Assistent Beleggen,Brunel,2024-11-20,2024-12-20,0,41,30.0
+Specialist Kredietbeoordeling Hilversum,specialist kredietbeoordeling hilversum,Specialist,Specialist Kredietbeoordeling Hilversum,Brunel,2024-12-03,2025-01-02,0,38,30.0
+Werkvoorbereider Bouwkunde,werkvoorbereider bouwkunde,Projectplanner,Werkvoorbereider Bouwkunde,Brunel,2025-02-12,2025-02-18,4,34,6.0
+Krediet Acceptant Utrecht,krediet acceptant utrecht,Underwriter,Krediet Acceptant Utrecht,Brunel,2024-11-20,2024-12-03,1,32,13.0
+Specialist Beheer Hypotheken Sittard,specialist beheer hypotheken sittard,Specialist,Specialist Beheer Hypotheken Sittard,Brunel,2024-11-20,2024-12-20,0,34,30.0
+Specialist Bijzonder Beheer Amsterdam,specialist bijzonder beheer amsterdam,Specialist,Specialist Bijzonder Beheer Amsterdam,Brunel,2024-12-03,2025-01-02,0,34,30.0
+Senior Juridisch Vergunningverlener HBO,senior juridisch vergunningverlener hbo,Juridisch,Senior Juridisch Vergunningverlener HBO,Brunel,2025-01-19,2025-02-18,0,35,30.0
+Krediet Specialist Verduurzaming,krediet specialist verduurzaming,Specialist,Krediet Specialist Verduurzaming,Brunel,2024-11-20,2024-12-03,0,34,13.0
+Senior Hypotheek Acceptant Sittard,senior hypotheek acceptant sittard,Senior verzekeraar,Senior Hypotheek Acceptant Sittard,Brunel,2024-11-20,2024-12-20,0,35,30.0
+Specialist Kredietbeoordeling Utrecht,specialist kredietbeoordeling utrecht,Specialist,Specialist Kredietbeoordeling Utrecht,Brunel,2024-12-03,2025-01-02,0,32,30.0
+Medior Bezwaarjurist - Utrecht,medior bezwaarjurist - utrecht,Juridisch specialist,Medior Bezwaarjurist - Utrecht,Brunel,2025-03-21,2025-04-07,0,31,17.0
+Acceptant Duurzaamheidskredieten,acceptant duurzaamheidskredieten,Underwriter,Acceptant Duurzaamheidskredieten,Brunel,2024-11-20,2024-12-03,1,29,13.0
+Medior Bezwaarjurist - Den Haag,medior bezwaarjurist - den haag,Juridisch specialist,Medior Bezwaarjurist - Den Haag,Brunel,2024-12-03,2025-01-02,2,28,30.0
+Medior Werkvoorbereider Civiele Techniek,medior werkvoorbereider civiele techniek,Planner,Medior Werkvoorbereider Civiele Techniek,Brunel,2025-02-06,2025-03-08,2,28,30.0
+Jurist Bezwaar & Beroep Omgevingsrecht HBO Medior,jurist bezwaar & beroep omgevingsrecht hbo medior,Advocaat,Jurist Bezwaar & Beroep Omgevingsrecht HBO Medior,Brunel,2025-01-15,2025-02-13,0,31,29.0
+Senior Jurist Woo - Rijksoverheid,senior jurist woo - rijksoverheid,Senior Advocaat,Senior Jurist Woo - Rijksoverheid,Brunel,2025-11-20,,1,28,
+Bouwkundig Werkvoorbereider,bouwkundig werkvoorbereider,Planner,Bouwkundig Werkvoorbereider,Brunel,2025-03-21,2025-03-28,0,29,7.0
+Medior Uitvoerder Civiele Techniek,medior uitvoerder civiele techniek,Constructiesupervisor,Medior Uitvoerder Civiele Techniek,Brunel,2025-02-06,2025-02-13,3,26,7.0
+Zakelijke Hypotheek Acceptant,zakelijke hypotheek acceptant,Underwriter,Zakelijke Hypotheek Acceptant,Brunel,2024-11-20,2024-12-20,0,27,30.0
+Senior Jurist Wet open overheid,senior jurist wet open overheid,Ambtenaar,Senior Jurist Wet open overheid,Brunel,2024-11-20,2024-12-20,0,26,30.0
+Systeem Engineer Maritiem,systeem engineer maritiem,Systeemingenieur,Systeem Engineer Maritiem,Brunel,2025-03-21,2025-03-22,0,23,1.0
+Senior Bezwaarjurist,senior bezwaarjurist,Juridisch specialist,Senior Bezwaarjurist,Brunel,2024-12-03,2025-01-02,0,18,30.0
+Sales Consultant Compliance,sales consultant compliance,Verkoopconsultant,Sales Consultant Compliance,Brunel,2024-12-30,2024-12-31,0,16,1.0
+Jurist Bezwaar & Beroep Omgevingsrecht WO Junior,jurist bezwaar & beroep omgevingsrecht wo junior,Advocaat,Jurist Bezwaar & Beroep Omgevingsrecht WO Junior,Brunel,2025-01-19,2025-02-13,0,17,25.0
+Senior Bezwaarjurist - Den Haag,senior bezwaarjurist - den haag,Juridisch specialist,Senior Bezwaarjurist - Den Haag,Brunel,2024-12-03,2025-01-02,0,15,30.0
+Juridisch Planoloog HBO,juridisch planoloog hbo,Planoloog,Juridisch Planoloog HBO,Brunel,2025-01-19,2025-02-13,1,14,25.0
+Junior Project Engineer Duurzame Energie,junior project engineer duurzame energie,Elektrisch ingenieur,Junior Project Engineer Duurzame Energie,Brunel,2024-11-16,2024-12-13,0,13,27.0
+Category Procurement Manager Packaging,category procurement manager packaging,Category-manager,Category Procurement Manager Packaging,Brunel,2025-09-23,2025-09-23,0,14,0.0
+Senior Uitvoerder Civiele Techniek,senior uitvoerder civiele techniek,Constructiesupervisor,Senior Uitvoerder Civiele Techniek,Brunel,2025-02-06,2025-02-13,0,10,7.0
+Jurist Beroep,jurist beroep,Advocaat,Jurist Beroep,Brunel,2024-12-30,2024-12-31,0,9,1.0
+Medior Bezwaarjurist - Utrecht,medior bezwaarjurist - utrecht,Juridisch medewerker,Medior Bezwaarjurist - Utrecht,Brunel,2025-03-28,2025-03-31,0,9,3.0
+Junior Functioneel Beheerder,junior functioneel beheerder,ICT-specialist,Junior Functioneel Beheerder,Brunel,2024-11-06,2024-12-06,0,9,30.0
+Business Analist,business analist,Analist bedrijfsstrategie,Business Analist,Brunel,2024-11-06,2024-12-06,0,9,30.0
+Procesmanager Amersfoort,procesmanager amersfoort,Manager procestechniek,Procesmanager Amersfoort,Brunel,2024-11-13,2024-12-13,0,8,30.0
+Junior Financial Accountant,junior financial accountant,Accountant,Junior Financial Accountant,Brunel,2024-11-06,2024-12-06,0,8,30.0
+Traineeship Hypotheekacceptant Utrecht,traineeship hypotheekacceptant utrecht,Trainee,Traineeship Hypotheekacceptant Utrecht,Brunel,2024-11-13,2024-12-13,0,8,30.0
+Traineeship Hypotheekacceptant Amersfoort,traineeship hypotheekacceptant amersfoort,Trainee,Traineeship Hypotheekacceptant Amersfoort,Brunel,2024-11-13,2024-12-13,0,8,30.0
+Junior Financieel Adviseur Planning & Control,junior financieel adviseur planning & control,Junior adviseur,Junior Financieel Adviseur Planning & Control,Brunel,2024-11-06,2024-12-06,0,8,30.0
+Medior Project Engineer Energie opwek Elektrotechniek,medior project engineer energie opwek elektrotechniek,Elektrotechniek,Medior Project Engineer Energie opwek Elektrotechniek,Brunel,2024-11-16,2024-12-13,0,8,27.0
+Project Engineer Energie opwek Elektrotechniek,project engineer energie opwek elektrotechniek,Elektrotechniek,Project Engineer Energie opwek Elektrotechniek,Brunel,2024-11-16,2024-12-13,0,8,27.0
+Medior Project Engineer Duurzame Energie,medior project engineer duurzame energie,Elektrisch ingenieur,Medior Project Engineer Duurzame Energie,Brunel,2024-11-13,2024-12-13,0,8,30.0
+Project Engineer Energie opwek Mechanisch,project engineer energie opwek mechanisch,Werktuigbouwkundige,Project Engineer Energie opwek Mechanisch,Brunel,2024-11-16,2024-12-13,0,8,27.0
+Junior systeembeheerder Linux,junior systeembeheerder linux,Junior systeembeheerder,Junior systeembeheerder Linux,Brunel,2024-11-13,2024-12-13,0,7,30.0
+Traineeship KYC,traineeship kyc,Financiën,Traineeship KYC,Brunel,2024-11-06,2024-12-06,0,7,30.0
+Medior Project Engineer Energie opwek Werktuigbouwkunde,medior project engineer energie opwek werktuigbouwkunde,Werktuigbouwkundige,Medior Project Engineer Energie opwek Werktuigbouwkunde,Brunel,2024-11-16,2024-12-13,0,7,27.0
+Senior Financial Accountant,senior financial accountant,Accountant,Senior Financial Accountant,Brunel,2024-11-06,2024-12-06,0,7,30.0
+Medior Financial Accountant,medior financial accountant,Accountant,Medior Financial Accountant,Brunel,2024-11-06,2024-12-06,0,7,30.0
+Medior Financieel Adviseur Planning & Control,medior financieel adviseur planning & control,Planningsbeheer,Medior Financieel Adviseur Planning & Control,Brunel,2024-11-06,2024-12-06,0,7,30.0
+Medior CDD/KYC Analist,medior cdd/kyc analist,Analist tegen Geldwitwassen,Medior CDD/KYC Analist,Brunel,2024-11-06,2024-12-06,0,7,30.0
+ICT Servicedeskmedewerker,ict servicedeskmedewerker,ICT-specialist,ICT Servicedeskmedewerker,Brunel,2024-11-04,2024-11-29,0,7,25.0
+Service Level Manager,service level manager,Manager klantenservice,Service Level Manager,Brunel,2024-11-06,2024-12-06,0,6,30.0
+Junior Java Engineer,junior java engineer,Software-ingenieur,Junior Java Engineer,Brunel,2024-11-04,2024-11-04,0,3,0.0
+Informatiespecialist,informatiespecialist,Informatiespecialist,Informatiespecialist,Brunel,2024-11-06,2024-12-06,0,6,30.0
+Supplier Quality Engineer,supplier quality engineer,Ingenieur leverancierskwaliteit,Supplier Quality Engineer,Brunel,2018-03-06,2018-04-05,0,3,30.0
+Sales Consultant Bouw-Infra,sales consultant bouw-infra,Bouw,Sales Consultant Bouw-Infra,Brunel,2024-10-14,2024-11-13,0,2,30.0
+Consultant Finance,consultant finance,,Consultant Finance,Brunel,2019-07-19,2019-08-03,0,4,15.0
+Werkvoorbereider Verduurzaming,werkvoorbereider verduurzaming,Civiel ingenieur,Werkvoorbereider Verduurzaming,Brunel,2024-10-18,2024-11-17,0,4,30.0
+Global Marketing Communciation Manager Philips,global marketing communciation manager philips,Manager marketingcommunicatie,Global Marketing Communciation Manager Philips,Brunel,2017-12-08,2017-12-11,0,2,3.0
+Jurist Milieu,jurist milieu,Milieudeskundige,Jurist Milieu,Brunel,2024-11-10,2024-12-06,0,4,26.0
+Jurist Woo,jurist woo,Advocaat,Jurist Woo,Brunel,2024-11-10,2024-12-06,0,4,26.0
+Senior Online Marketeer,senior online marketeer,Online marketeer,Senior Online Marketeer,Brunel,2019-03-27,2019-04-26,0,1,30.0
+Jurist Bezwaar en Beroep bij de Rijksoverheid,jurist bezwaar en beroep bij de rijksoverheid,,Jurist Bezwaar en Beroep bij de Rijksoverheid,Brunel,2023-10-31,2023-12-30,0,1,60.0
+Junior FEC Analist,junior fec analist,Junior analist,Junior FEC Analist,Brunel,2024-10-28,2024-11-27,0,3,30.0
+Electronics System Engineering Traineeship - Philips,electronics system engineering traineeship - philips,Systeemingenieur,Electronics System Engineering Traineeship - Philips,Brunel,2019-07-29,2019-08-19,0,1,21.0
+Jurist Rechtsbijstand,jurist rechtsbijstand,Advocaat,Jurist Rechtsbijstand,Brunel,2024-02-09,2024-03-10,0,2,30.0
+Senior Naval Architect,senior naval architect,Seniore Scheepsbouwkundige,Senior Naval Architect,Brunel,2019-07-08,2019-08-07,0,3,30.0
+Traineeship Overheidsjurist,traineeship overheidsjurist,,Traineeship Overheidsjurist,Brunel,2024-02-19,2024-04-19,0,3,60.0
+Junior AML-Analist,junior aml-analist,Financiën,Junior AML-Analist,Brunel,2024-11-02,2024-11-29,0,3,27.0
+Traineeship Hypotheekacceptatie,traineeship hypotheekacceptatie,Financiën,Traineeship Hypotheekacceptatie,Brunel,2024-10-18,2024-11-17,0,2,30.0
+Team Brunel Engineer,team brunel engineer,Ingenieur,Team Brunel Engineer,Brunel,2017-08-22,2017-09-13,0,2,22.0
+Embedded Software Engineer (Automotive),embedded software engineer (automotive),,Embedded Software Engineer (Automotive),Brunel,2024-01-31,2024-04-27,0,1,87.0
+Projectmanager IT,projectmanager it,,Projectmanager IT,Brunel,2019-09-20,2019-10-14,0,2,24.0
+Projectmanager IT Infra,projectmanager it infra,,Projectmanager IT Infra,Brunel,2018-02-28,2018-03-29,0,1,29.0
+Senior Legal Counsel,senior legal counsel,,Senior Legal Counsel,Brunel,2024-06-03,2024-08-02,0,2,60.0
+Traineeship Maintenance Engineer - Food,traineeship maintenance engineer - food,,Traineeship Maintenance Engineer - Food,Brunel,2017-04-11,2017-05-11,0,1,30.0
+Senior Mechanical Engineer,senior mechanical engineer,Senior werktuigbouwkundige,Senior Mechanical Engineer,Brunel,2017-10-10,2017-11-09,0,1,30.0
+Junior Business Controller,junior business controller,Junior controller,Junior Business Controller,Brunel,2024-10-28,2024-11-27,0,2,30.0
+.NET Developer,.net developer,,.NET Developer,Brunel,2021-02-26,2021-03-19,0,1,21.0
+Java Developer (Spring Boot),java developer (spring boot),,Java Developer (Spring Boot),Brunel,2024-07-01,2024-09-15,0,1,76.0
+Senior KYC Specialist,senior kyc specialist,Specialist in de bestrijding van witwassen,Senior KYC Specialist,Brunel,2024-10-28,2024-11-27,0,2,30.0
+Senior Marketing Project Manager,senior marketing project manager,Senior Marketing Project Manager,Senior Marketing Project Manager,Brunel,2020-07-30,2020-08-03,0,1,4.0
+Operations Officer,operations officer,,Operations Officer,Brunel,2024-01-26,2024-02-25,0,1,30.0
+Medewerker Hypotheken Bijzonder Beheer,medewerker hypotheken bijzonder beheer,Medewerker hypotheken,Medewerker Hypotheken Bijzonder Beheer,Brunel,2019-01-31,2019-03-02,0,1,30.0
+E&I Technician,e&i technician,,E&I Technician,Brunel,2024-06-03,2024-08-13,0,1,71.0
+Jurist Rechtsbijstand (Junior),jurist rechtsbijstand (junior),,Jurist Rechtsbijstand (Junior),Brunel,2024-05-13,2024-06-12,0,1,30.0
+Financial Controller Brunel,financial controller brunel,,Financial Controller Brunel,Brunel,2023-01-09,2023-02-06,0,1,28.0
+Jurist Rechtsbijstand (medior),jurist rechtsbijstand (medior),,Jurist Rechtsbijstand (medior),Brunel,2024-07-22,2024-09-19,0,1,59.0
+Privacy Officer,privacy officer,,Privacy Officer,Brunel,2024-02-14,2024-04-14,0,1,60.0
+Project Engineer Offshore Wind,project engineer offshore wind,,Project Engineer Offshore Wind,Brunel,2024-04-22,2024-06-26,0,1,65.0
+Market & Digital Data Scientist - Philips,market & digital data scientist - philips,Datawetenschapper,Market & Digital Data Scientist - Philips,Brunel,2019-02-08,2019-02-27,0,1,19.0
+Naval Architect,naval architect,Marinearchitect,Naval Architect,Brunel,2019-08-12,2019-09-05,0,1,24.0
+Project Manager Marketing,project manager marketing,Projectmanager,Project Manager Marketing,Brunel,2017-10-03,2017-10-06,0,1,3.0
+Project Control & Scheduling Manager,project control & scheduling manager,,Project Control & Scheduling Manager,Brunel,2019-03-25,2019-04-23,0,1,29.0
+Business Analyst,business analyst,Bedrijfsanalist,Business Analyst,Brunel,2024-09-16,2024-10-16,0,1,30.0
+Overheidsjurist Omgevingsrecht,overheidsjurist omgevingsrecht,,Overheidsjurist Omgevingsrecht,Brunel,2024-06-03,2024-08-18,0,1,76.0
+FPGA Design Engineer,fpga design engineer,Designingenieur,FPGA Design Engineer,Brunel,2017-11-29,2017-12-18,0,1,19.0
+Junior Java Engineer,junior java engineer,,Junior Java Engineer,Brunel,2024-01-31,2024-03-28,0,1,57.0
+Mechanical Engineer – Machinebouw,mechanical engineer - machinebouw,,Mechanical Engineer – Machinebouw,Brunel,2017-06-13,2017-07-13,0,1,30.0
+GMP and Documentation specialist,gmp and documentation specialist,Documentatiespecialist,GMP and Documentation specialist,Brunel,2020-07-13,2020-08-03,0,1,21.0
+Accountmanager Detachering,accountmanager detachering,,Accountmanager Detachering,Brunel,2012-11-09,2012-12-07,0,1,28.0
+Commissioning Start Up Manager,commissioning start up manager,Opdrachtmanager,Commissioning Start Up Manager,Brunel,2019-08-19,2019-08-30,0,1,11.0
+"Python developer, Senior - 80% Remote","python developer, senior - 80% remote",,"Python developer, Senior - 80% Remote",Brunel,2022-12-19,2023-01-23,0,1,35.0
+Medewerker ICT-Servicedesk,medewerker ict-servicedesk,,Medewerker ICT-Servicedesk,Brunel,2024-07-01,2024-08-18,0,1,48.0
+Project & Operations Manager (Sales Enablement),project & operations manager (sales enablement),Facilitair manager,Project & Operations Manager (Sales Enablement),Brunel,2022-06-28,2022-07-28,0,1,30.0
+UX Designer,ux designer,User Experience-designer,UX Designer,Brunel,2017-11-28,2017-12-07,0,1,9.0
+Jurist Wet open overheid,jurist wet open overheid,Ambtenaar,Jurist Wet open overheid,Brunel,2024-08-29,2024-09-13,0,1,15.0
+Senior .Net Azure Developer,senior .net azure developer,,Senior .Net Azure Developer,Brunel,2023-05-15,2023-06-05,0,1,21.0
+Document Controller,document controller,Archivist,Document Controller,Brunel,2024-09-26,2024-10-26,0,1,30.0
+Teamleider Operations,teamleider operations,Teamleider operations,Teamleider Operations,Brunel,2019-08-30,2019-09-05,0,1,6.0
+Global Talent & Learning Manager,global talent & learning manager,Talentmanager,Global Talent & Learning Manager,Brunel,2022-04-13,2022-05-13,0,1,30.0
+Digital Customer Journey Expert,digital customer journey expert,Digitale specialist,Digital Customer Journey Expert,Brunel,2022-06-29,2022-07-29,0,1,30.0
+Wabo Jurist,wabo jurist,,Wabo Jurist,Brunel,2024-01-31,2024-03-31,0,1,60.0
+High Voltage Engineer,high voltage engineer,Ingenieur,High Voltage Engineer,Brunel,2018-02-06,2018-03-08,0,1,30.0
+Mechanical / R&D Engineer,mechanical / r&d engineer,,Mechanical / R&D Engineer,Brunel,2023-05-15,2023-06-05,0,1,21.0
+Agile Coach,agile coach,,Agile Coach,Brunel,2023-11-16,2023-11-17,0,1,1.0
+Business Analyst,business analyst,,Business Analyst,Brunel,2021-05-01,2021-05-21,0,1,20.0
+Interim UX designer,interim ux designer,User Experience-designer,Interim UX designer,Brunel,2018-08-27,2018-09-30,0,1,34.0
+Draftsman Engineer,draftsman engineer,Technisch tekenaar,Draftsman Engineer,Brunel,2019-07-12,2019-08-11,0,1,30.0
+Senior  SW Engineer On Board Diagnostics,senior sw engineer on board diagnostics,Senior software-ingenieur,Senior  SW Engineer On Board Diagnostics,Brunel,2019-10-18,2019-10-23,0,1,5.0
+Werktuigbouwkundige,werktuigbouwkundige,Werktuigbouwkundige,Werktuigbouwkundige,Brunel,2022-07-22,2022-08-21,0,1,30.0
+Medior ICT Support Medewerker,medior ict support medewerker,Ondersteuning,Medior ICT Support Medewerker,Brunel,2024-10-28,2024-11-21,0,1,24.0
+Jurist Letselschade Achmea,jurist letselschade achmea,,Jurist Letselschade Achmea,Brunel,2024-04-22,2024-06-26,0,1,65.0
+International HR Manager,international hr manager,Internationaal HR Manager,International HR Manager   ,Brunel,2022-06-28,2022-07-07,0,1,9.0
+Junior Financial Controller,junior financial controller,Accountant,Junior Financial Controller,Brunel,2024-11-04,2024-11-29,0,1,25.0
+Corporate Banking & Lending Traineeship Amersfoort,corporate banking & lending traineeship amersfoort,,Corporate Banking & Lending Traineeship Amersfoort,Brunel,2024-07-01,2024-08-30,0,1,60.0
+Project Management Officer (PMO),project management officer (pmo),,Project Management Officer (PMO),Brunel,2024-05-13,2024-06-12,0,1,30.0
+Industriële Automatisering Traineeship,industriële automatisering traineeship,,Industriële Automatisering Traineeship,Brunel,2017-02-27,2017-03-30,0,1,31.0
+Junior Project Engineer,junior project engineer,,Junior Project Engineer,Brunel,2024-06-03,2024-07-24,0,1,51.0
+Technical Project Manager,technical project manager,Technisch projectmanager,Technical Project Manager,Brunel,2020-08-06,2020-08-17,0,1,11.0
+Creative Asset Producer,creative asset producer,Creatief producent,Creative Asset Producer,Brunel,2017-09-28,2017-10-02,0,1,4.0
+Electrical Design Engineer,electrical design engineer,Ingenieur elektrisch ontwerp,Electrical Design Engineer,Brunel,2019-10-08,2019-10-29,0,1,21.0
+Diagnostic Engineer,diagnostic engineer,Diagnosetechnicus,Diagnostic Engineer,Brunel,2021-10-20,2021-10-25,0,1,5.0
+Jurist Arbeidsrecht,jurist arbeidsrecht,,Jurist Arbeidsrecht,Brunel,2022-12-02,2022-12-19,0,1,17.0
+Analog IC Design Engineer,analog ic design engineer,Ingenieur analoge ontwerpen,Analog IC Design Engineer,Brunel,2019-02-13,2019-03-15,0,1,30.0
+Growth hacker/ Marketeer,growth hacker/ marketeer,Growth Hacker,Growth hacker/ Marketeer,Brunel,2019-11-26,2019-12-03,0,1,7.0
+Lead Process Engineer,lead process engineer,Hoofdprocestechnicus,Lead Process Engineer,Brunel,2019-04-09,2019-05-07,0,1,28.0
+Quality Assurance Specialist,quality assurance specialist,Kwaliteitszorg,Quality Assurance Specialist,Brunel,2021-02-19,2021-03-10,0,1,19.0
+Assistent uitvoerder civiel,assistent uitvoerder civiel,,Assistent uitvoerder civiel,Brunel,2024-04-10,2024-06-05,0,1,56.0
+Visual designer,visual designer,Visueel ontwerper,Visual designer,Brunel,2018-06-13,2018-06-15,0,1,2.0
+Teamlead FEC CDD Higher Risk Customers RDT,teamlead fec cdd higher risk customers rdt,,Teamlead FEC CDD Higher Risk Customers RDT,Brunel,2024-04-04,2024-05-31,0,1,57.0
+Lab Technician,lab technician,,Lab Technician,Brunel,2023-02-27,2023-03-24,0,1,25.0
+Digital Conversion Optimization Specialist (CRO) - Philips,digital conversion optimization specialist (cro) - philips,Conversiespecialist,Digital Conversion Optimization Specialist (CRO) - Philips,Brunel,2018-12-19,2019-01-14,0,1,26.0
+International Recruiter,international recruiter,,International Recruiter,Brunel,2024-01-31,2024-03-31,0,1,60.0
+Senior OBD Calibration Engineer,senior obd calibration engineer,Calibratietechnicus,Senior OBD Calibration Engineer,Brunel,2021-02-01,2021-02-11,0,1,10.0
+Toezichthouder Veilig Graven,toezichthouder veilig graven,Technisch supervisor,Toezichthouder Veilig Graven,Brunel,2024-10-14,2024-11-13,0,1,30.0
